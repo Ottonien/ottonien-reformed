@@ -13,6 +13,6 @@ TUTORIAL-OPTIFINE: https://www.youtube.com/watch?v=jHLhsCfsoq0
 TUTORIAL-RESOURCEPACK: https://www.youtube.com/watch?v=Ij4cZMIfFUc
 
 ## Legal
-Ottonien Reformed © 2024 by Ottonien.com is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+Ottonien Reformed © 2024 by Ottonien.com
 
 Kein offizieller Minecraft Service. Nicht genehmigt von oder verbunden mit Mojang oder Microsoft.
