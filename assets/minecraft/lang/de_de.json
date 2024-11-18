@@ -374,6 +374,9 @@
     "block.minecraft.brick_stairs": "\u00A76Backsteintreppe",
     "block.minecraft.brick_wall": "\u00A76Backsteinmauer",
     "block.minecraft.raw_copper_block": "\u00A76Gemusterte Backsteine",
+    "block.minecraft.waxed_exposed_cut_copper": "\u00A76Dunkle Backsteine",
+    "block.minecraft.waxed_exposed_cut_copper_slab": "\u00A76Dunkle Backsteinstufe",
+    "block.minecraft.waxed_exposed_cut_copper_stairs": "\u00A76Dunkle Backsteintreppe",
 
     "block.minecraft.deepslate_tiles": "\u00A76Schieferschindeln",
     "block.minecraft.deepslate_tile_slab": "\u00A76Schieferschindelstufe",

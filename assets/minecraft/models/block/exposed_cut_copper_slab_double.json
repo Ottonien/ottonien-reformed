@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/exposed_cut_copper_slab_double_end",
+        "west": "block/exposed_cut_copper_slab_double_end",
+        "east": "block/exposed_cut_copper_slab_double_end",
+        "south": "block/exposed_cut_copper_slab_double_end",
+        "up": "block/exposed_cut_copper",
+        "down": "block/exposed_cut_copper",
+        "particle": "block/exposed_cut_copper"
+    }
+}
