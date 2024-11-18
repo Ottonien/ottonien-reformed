@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/dead_fire_coral_fan_model",
+		"particle": "block/dead_fire_coral_fan_model"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 6],
+			"to": [14, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 16], "texture": "#1"},
+				"east": {"uv": [12, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 12, 16], "texture": "#1"},
+				"west": {"uv": [12, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 12, 4], "texture": "#1"},
+				"down": {"uv": [0, 0, 12, 4], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}

@@ -1,0 +1,82 @@
+{
+  "textureSize": [64,64],
+  "models": 
+  [
+    {
+      "model": "pillager_head.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "pillager_body.jpm",
+      "part": "body", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "pillager_arm_right.jpm",
+      "part": "arms", 
+      "attach": false,
+      "translate": [0, -3, -1.25],
+      "rotate": [0, 0, 0],
+	  "animations":
+      [
+        {
+          "this.rx": "0.75 + (sin(time / 23) / 18) + left_leg.rx",
+		  "this.rz": "270.235 + (sin(time / 13) / 18)",
+		  "this.tx": "-4",
+		  "this.ty": "-1.4",
+		  "this.tz": "0.1"
+        }
+      ]
+    },
+	{
+      "model": "pillager_arm_left.jpm",
+      "part": "arms", 
+      "attach": true,
+      "translate": [0, -3, -1.25],
+      "rotate": [45, 0, 0],
+	  "animations":
+      [
+        {
+          "this.rx": "0.75 - (sin(time / 23) / 18) + right_leg.rx",
+		  "this.rz": "270.125 - (sin(time / 13) / 18)",
+		  "this.tx": "4",
+		  "this.ty": "-1.4",
+		  "this.tz": "0.1"
+        }
+      ]
+    },
+	{
+      "model": "pillager_arm_right.jpm",
+      "part": "right_arm", 
+      "attach": false,
+      "translate": [1, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "pillager_arm_left.jpm",
+      "part": "left_arm", 
+      "attach": false,
+      "translate": [-1, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "pillager_leg_right.jpm",
+      "part": "right_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "pillager_leg_left.jpm",
+      "part": "left_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

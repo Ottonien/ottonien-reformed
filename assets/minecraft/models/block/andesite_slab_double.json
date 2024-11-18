@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/andesite_slab_double_side",
+        "west": "block/andesite_slab_double_side",
+        "east": "block/andesite_slab_double_side",
+        "south": "block/andesite_slab_double_side",
+        "up": "block/andesite_slab_double_end",
+        "down": "block/andesite_slab_double_end",
+        "particle": "block/andesite"
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "comment": "",
+  "submodels": [
+    {
+      "comment": "leftleg1a",
+      "rotate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [-2,0,-2,4,12,4],
+          "uvDown": [24,48,28,52],
+          "uvNorth": [20,52,24,64],
+          "uvSouth": [28,52,32,64],
+          "uvWest": [24,52,28,64],
+          "uvEast": [16,52,20,64]
+        }
+      ]
+    },
+	{
+      "comment": "leftleg1a",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [-2,0,-2,4,12,4],
+          "uvUp": [20,48,24,52]
+        }
+      ]
+    },
+	{
+      "comment": "leftleg2a",
+      "rotate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [-2.25,-0.25,-2.25,4.5,12.5,4.5],
+          "uvDown": [8,48,12,52],
+          "uvNorth": [4,52,8,64],
+          "uvSouth": [12,52,16,64],
+          "uvWest": [8,52,12,64],
+          "uvEast": [0,52,4,64]
+        }
+      ]
+    },
+	{
+      "comment": "leftleg2a",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [-2.25,-0.25,-2.25,4.5,12.5,4.5],
+          "uvUp": [4,48,8,52]
+        }
+      ]
+    }
+  ]
+}

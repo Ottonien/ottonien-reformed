@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/polished_granite_slab_double_side",
+        "west": "block/polished_granite_slab_double_side",
+        "east": "block/polished_granite_slab_double_side",
+        "south": "block/polished_granite_slab_double_side",
+        "up": "block/polished_granite_slab_double_end",
+        "down": "block/polished_granite_slab_double_end",
+        "particle": "block/polished_granite"
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+      {"model": "minecraft:block/deko-buecher/buch_braun_offen"},
+      {"model": "minecraft:block/deko-buecher/buch_braun_offen", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buch_blau_offen"},
+      {"model": "minecraft:block/deko-buecher/buch_blau_offen", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buch_rot_offen"},
+      {"model": "minecraft:block/deko-buecher/buch_rot_offen", "y": 90}
+    ],
+    "candles=1,lit=true": {
+      "model": "minecraft:block/orange_candle_one_candle_lit"
+    },
+    "candles=2,lit=false": [
+      {"model": "minecraft:block/deko-buecher/buch_braun_geschlossen"},
+      {"model": "minecraft:block/deko-buecher/buch_braun_geschlossen", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buch_blau_geschlossen"},
+      {"model": "minecraft:block/deko-buecher/buch_blau_geschlossen", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buch_rot_geschlossen"},
+      {"model": "minecraft:block/deko-buecher/buch_rot_geschlossen", "y": 90}
+    ],
+    "candles=2,lit=true": {
+      "model": "minecraft:block/orange_candle_two_candles_lit"
+    },
+    "candles=3,lit=false": [
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_1"},
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_1", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_2"},
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_2", "y": 90},
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_3"},
+      {"model": "minecraft:block/deko-buecher/buchstapel_klein_3", "y": 90}
+    ],
+    "candles=3,lit=true": {
+      "model": "minecraft:block/orange_candle_three_candles_lit"
+    },
+    "candles=4,lit=false": [
+      {"model": "minecraft:block/deko-buecher/buchstapel_gross_1"},
+      {"model": "minecraft:block/deko-buecher/buchstapel_gross_1", "y": 90}
+    ],
+    "candles=4,lit=true": {
+      "model": "minecraft:block/orange_candle_four_candles_lit"
+    }
+  }
+}

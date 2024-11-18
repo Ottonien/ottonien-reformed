@@ -1,0 +1,12 @@
+{
+    "variants": {
+	    "": [
+			{ "model": "block/short_grass", "weight": 100 },
+			{ "model": "block/short_grass1", "weight": 50 },
+			{ "model": "block/short_grass2", "weight": 50 },
+			{ "model": "block/short_grass3", "weight": 50 },
+			{ "model": "block/short_grass4", "weight": 50 },
+			{ "model": "block/short_grass5", "weight": 20 }
+		]
+    }
+}

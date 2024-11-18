@@ -1,0 +1,44 @@
+{
+	"credit": "Made with blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/dekorationen/plunder-dekoration/schatulle_1",
+		"particle": "block/dekorationen/plunder-dekoration/schatulle_1"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 8],
+			"to": [7, 3, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [5, 6, 8.5, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 7, 2.5, 7.5], "texture": "#0"},
+				"south": {"uv": [5, 6.5, 8.5, 7], "texture": "#0"},
+				"west": {"uv": [7, 0, 9.5, 0.5], "texture": "#0"},
+				"up": {"uv": [3.5, 2.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [3.5, 2.5, 0, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [7, 2, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 5, 3.5, 6], "texture": "#0"},
+				"east": {"uv": [0, 6, 2.5, 7], "texture": "#0"},
+				"south": {"uv": [3.5, 5, 7, 6], "texture": "#0"},
+				"west": {"uv": [2.5, 6, 5, 7], "texture": "#0"},
+				"up": {"uv": [7, 2.5, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [7, 2.5, 3.5, 5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+  "comment": "",
+  "submodels": [
+    {
+      "comment": "rightarm1a",
+      "rotate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [-4,-2,-2,4,12,4],
+          "uvNorth": [44,20,48,32],
+          "uvSouth": [52,20,56,32],
+          "uvWest": [48,20,52,32],
+          "uvEast": [40,20,44,32]
+        }
+      ]
+    },
+	{
+      "comment": "rightarm1b",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [0,-2,-2,4,12,4],
+          "uvUp": [44,16,48,20]
+        }
+      ]
+    },
+	{
+      "comment": "rightarm1c",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [0,-2,-2,4,12,4],
+          "uvDown": [48,16,52,20]
+        }
+      ]
+    },
+    {
+      "comment": "rightarm2a",
+      "rotate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [-4.25,-2.25,-2.25,4.5,12.5,4.5],
+		  "uvNorth": [44,36,48,48],
+          "uvSouth": [52,36,56,48],
+          "uvWest": [48,36,52,48],
+          "uvEast": [40,36,44,48]
+        }
+      ]
+    },
+	{
+      "comment": "rightarm2b",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [-0.25,-2.25,-2.25,4.5,12.5,4.5],
+          "uvUp": [44,32,48,36]
+        }
+      ]
+    },
+	{
+      "comment": "rightarm2c",
+      "rotate": [0,180,0],
+      "boxes": [
+        {
+          "coordinates": [-0.25,-2.25,-2.25,4.5,12.5,4.5],
+          "uvDown": [48,32,52,36]
+        }
+      ]
+    }
+  ]
+}

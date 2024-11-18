@@ -1,0 +1,28 @@
+{
+    "variants": {
+	    "": [
+    	{"model": "minecraft:block/deko-plunder/sanduhr"},
+    	{"model": "minecraft:block/deko-plunder/sanduhr", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/schachspiel"},
+    	{"model": "minecraft:block/deko-plunder/schachspiel", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/schatulle_1"},
+    	{"model": "minecraft:block/deko-plunder/schatulle_1", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/schatulle_2"},
+    	{"model": "minecraft:block/deko-plunder/schatulle_2", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/schatulle_3"},
+    	{"model": "minecraft:block/deko-plunder/schatulle_3", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/schatulle_4"},
+    	{"model": "minecraft:block/deko-plunder/schatulle_4", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/spielzeug_1"},
+    	{"model": "minecraft:block/deko-plunder/spielzeug_1", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/spielzeug_2"},
+    	{"model": "minecraft:block/deko-plunder/spielzeug_2", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/prunkhorn"},
+    	{"model": "minecraft:block/deko-plunder/prunkhorn", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/zupfinstrument"},
+    	{"model": "minecraft:block/deko-plunder/zupfinstrument", "y": 90},
+    	{"model": "minecraft:block/deko-plunder/trommel"},
+    	{"model": "minecraft:block/deko-plunder/trommel", "y": 90}
+		]
+    }
+}

@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./kirchenfenster_large_1",
+		"particle": "./kirchenfenster_large_1"
+	},
+	"elements": [
+		{
+			"name": "glas",
+			"from": [0, 0, 0],
+			"to": [28, 30, 0],
+			"faces": {
+				"north": {"uv": [0, 1, 7, 8.5], "texture": "#0"},
+				"south": {"uv": [0, 1, 7, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sockel",
+			"from": [0, 30, -2.1],
+			"to": [28, 32, 2.1],
+			"faces": {
+				"north": {"uv": [0, 0, 7, 0.5], "texture": "#0"},
+				"east": {"uv": [7, 0, 8, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 7, 0.5], "texture": "#0"},
+				"west": {"uv": [7, 0, 8, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 7, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 7, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "column1",
+			"from": [28, 0, -2.1],
+			"to": [30, 32, 2.1],
+			"faces": {
+				"north": {"uv": [7.5, 8.25, 8, 16], "texture": "#0"},
+				"east": {"uv": [7, 8.25, 7.5, 16], "texture": "#0"},
+				"south": {"uv": [7, 8.25, 7.5, 16], "texture": "#0"},
+				"west": {"uv": [7, 8.25, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "column2",
+			"from": [-2, 0, -2.1],
+			"to": [0, 32, 2.1],
+			"faces": {
+				"north": {"uv": [7.5, 8.25, 8, 16], "texture": "#0"},
+				"east": {"uv": [7, 8.25, 7.5, 16], "texture": "#0"},
+				"south": {"uv": [7.4375, 8.25, 7.9375, 15.25], "texture": "#0"},
+				"west": {"uv": [7, 8.25, 8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 180],
+			"translation": [28, 16, -46],
+			"scale": [2, 2, 2]
+		}
+	}
+}

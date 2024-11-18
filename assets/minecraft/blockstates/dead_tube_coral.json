@@ -1,0 +1,24 @@
+{
+    "variants": {
+	    "": [
+    	{"model": "minecraft:block/deko-rohstoff/kohle_1"},
+    	{"model": "minecraft:block/deko-rohstoff/kohle_1", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/kohle_2"},
+    	{"model": "minecraft:block/deko-rohstoff/kohle_2", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/seilrolle_1"},
+    	{"model": "minecraft:block/deko-rohstoff/seilrolle_1", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/seilrolle_2"},
+    	{"model": "minecraft:block/deko-rohstoff/seilrolle_2", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/steine_1"},
+    	{"model": "minecraft:block/deko-rohstoff/steine_1", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/steine_2"},
+    	{"model": "minecraft:block/deko-rohstoff/steine_2", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/eisenplatten"},
+    	{"model": "minecraft:block/deko-rohstoff/eisenplatten", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/leinentuch_1"},
+    	{"model": "minecraft:block/deko-rohstoff/leinentuch_2", "y": 90},
+    	{"model": "minecraft:block/deko-rohstoff/leinentuch_2"},
+    	{"model": "minecraft:block/deko-rohstoff/leinentuch_2", "y": 90}
+		]
+    }
+}

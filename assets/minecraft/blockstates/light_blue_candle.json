@@ -1,0 +1,76 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+      {"model": "minecraft:block/deko-krug/holzbecher_1"},
+      {"model": "minecraft:block/deko-krug/holzbecher_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/holzbecher_2"},
+      {"model": "minecraft:block/deko-krug/holzbecher_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/bierkrug"},
+      {"model": "minecraft:block/deko-krug/bierkrug", "y": 90},
+      {"model": "minecraft:block/deko-krug/wasserkrug"},
+      {"model": "minecraft:block/deko-krug/wasserkrug", "y": 90},
+      {"model": "minecraft:block/deko-krug/holzkaraffe"},
+      {"model": "minecraft:block/deko-krug/holzkaraffe", "y": 90}
+    ],
+    "candles=1,lit=true": {
+      "model": "minecraft:block/orange_candle_one_candle_lit"
+    },
+    "candles=2,lit=false": [
+      {"model": "minecraft:block/deko-krug/eisenbecher_1"},
+      {"model": "minecraft:block/deko-krug/eisenbecher_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/eisenbecher_2"},
+      {"model": "minecraft:block/deko-krug/eisenbecher_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/metallkrug_1"},
+      {"model": "minecraft:block/deko-krug/metallkrug_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/metallkrug_2"},
+      {"model": "minecraft:block/deko-krug/metallkrug_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/metallkrug_3"},
+      {"model": "minecraft:block/deko-krug/metallkrug_3", "y": 90},
+      {"model": "minecraft:block/deko-krug/eisenkaraffe"},
+      {"model": "minecraft:block/deko-krug/eisenkaraffe", "y": 90},
+      {"model": "minecraft:block/deko-krug/weinbecher_1"},
+      {"model": "minecraft:block/deko-krug/weinbecher_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/weinbecher_2"},
+      {"model": "minecraft:block/deko-krug/weinbecher_2", "y": 90}
+    ],
+    "candles=2,lit=true": {
+      "model": "minecraft:block/orange_candle_two_candles_lit"
+    },
+    "candles=3,lit=false": [
+      {"model": "minecraft:block/deko-krug/zierbecher_1"},
+      {"model": "minecraft:block/deko-krug/zierbecher_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/zierbecher_2"},
+      {"model": "minecraft:block/deko-krug/zierbecher_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/zierbecher_3"},
+      {"model": "minecraft:block/deko-krug/zierbecher_3", "y": 90},
+      {"model": "minecraft:block/deko-krug/trinkglas"},
+      {"model": "minecraft:block/deko-krug/trinkglas", "y": 90},
+      {"model": "minecraft:block/deko-krug/glasflasche_1"},
+      {"model": "minecraft:block/deko-krug/glasflasche_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/glasflasche_2"},
+      {"model": "minecraft:block/deko-krug/glasflasche_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/glasflasche_3"},
+      {"model": "minecraft:block/deko-krug/glasflasche_3", "y": 90}
+    ],
+    "candles=3,lit=true": {
+      "model": "minecraft:block/orange_candle_three_candles_lit"
+    },
+    "candles=4,lit=false": [
+      {"model": "minecraft:block/deko-krug/silberkelch_1"},
+      {"model": "minecraft:block/deko-krug/silberkelch_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/silberkelch_2"},
+      {"model": "minecraft:block/deko-krug/silberkelch_2", "y": 90},
+      {"model": "minecraft:block/deko-krug/silberkelch_3"},
+      {"model": "minecraft:block/deko-krug/silberkelch_3", "y": 90},
+      {"model": "minecraft:block/deko-krug/aquamanile"},
+      {"model": "minecraft:block/deko-krug/aquamanile", "y": 90},
+      {"model": "minecraft:block/deko-krug/goldkelch_1"},
+      {"model": "minecraft:block/deko-krug/goldkelch_1", "y": 90},
+      {"model": "minecraft:block/deko-krug/goldkelch_2"},
+      {"model": "minecraft:block/deko-krug/goldkelch_2", "y": 90}
+    ],
+    "candles=4,lit=true": {
+      "model": "minecraft:block/orange_candle_four_candles_lit"
+    }
+  }
+}

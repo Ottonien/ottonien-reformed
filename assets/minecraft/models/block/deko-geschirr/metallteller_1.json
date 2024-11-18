@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/dekorationen/geschirr-dekoration/metallteller_1",
+		"particle": "block/dekorationen/geschirr-dekoration/metallteller_1"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 5],
+			"to": [11, 0.5, 10],
+			"faces": {
+				"north": {"uv": [5, 0, 10, 1], "texture": "#0"},
+				"east": {"uv": [5, 1, 10, 2], "texture": "#0"},
+				"south": {"uv": [5, 2, 10, 3], "texture": "#0"},
+				"west": {"uv": [5, 3, 10, 4], "texture": "#0"},
+				"up": {"uv": [5, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 5, 0, 10], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

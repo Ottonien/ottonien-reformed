@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/dekorationen/pergament-dekoration/brief",
+		"particle": "block/dekorationen/pergament-dekoration/brief"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 4],
+			"to": [13, 0.1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 0.1], "texture": "#0"},
+				"east": {"uv": [0, 0, 7, 0.1], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 0.1], "texture": "#0"},
+				"west": {"uv": [0, 0, 7, 0.1], "texture": "#0"},
+				"up": {"uv": [0, 0, 7, 10], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [7, 0, 14, 10], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

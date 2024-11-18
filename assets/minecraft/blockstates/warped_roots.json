@@ -1,0 +1,9 @@
+{
+    "variants": {
+	    "": [
+			{ "model": "block/warped_roots", "weight": 10 },
+			{ "model": "block/warped_roots1", "weight": 10 },
+			{ "model": "block/warped_roots2", "weight": 10 }
+		]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "__comment": "ottonien",
+    "variants": {
+        "snowy=false": [
+
+			{ "model": "block/grass_block", "weight": 400 },
+			{ "model": "block/grass_block1", "weight": 200 },
+			{ "model": "block/grass_block2", "weight": 200 },
+
+            { "model": "block/grass_block_groundgrass", "weight": 100 },
+            { "model": "block/grass_block_groundgrass1", "weight": 100 },
+            { "model": "block/grass_block_groundgrass2", "weight": 100 }
+
+			
+        ],
+        "snowy=true":  { "model": "block/grass_block_snow" }
+    }
+}

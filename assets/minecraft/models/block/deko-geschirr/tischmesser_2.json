@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/dekorationen/geschirr-dekoration/tischmesser_2",
+		"particle": "block/dekorationen/geschirr-dekoration/tischmesser_2"
+	},
+	"elements": [
+		{
+			"from": [6, 0.5, 5],
+			"to": [8, 0.5, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 0], "texture": "#0"},
+				"up": {"uv": [2, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 2, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0.5, 10],
+			"to": [7, 0.5, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"up": {"uv": [2, 8, 1, 5], "texture": "#0"},
+				"down": {"uv": [3, 5, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 1],
+			"to": [7, 1, 7],
+			"faces": {
+				"north": {"uv": [6, 2, 7, 3], "texture": "#0"},
+				"east": {"uv": [5, 3, 11, 4], "texture": "#0"},
+				"south": {"uv": [6, 5, 7, 6], "texture": "#0"},
+				"west": {"uv": [5, 4, 11, 5], "texture": "#0"},
+				"up": {"uv": [6, 11, 5, 5], "texture": "#0"},
+				"down": {"uv": [4, 6, 3, 12], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

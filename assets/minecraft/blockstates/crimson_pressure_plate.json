@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "powered=false": [
+      { "model": "minecraft:block/deko-groschen/groschen_1"},
+      { "model": "minecraft:block/deko-groschen/groschen_1", "y": 90},
+      { "model": "minecraft:block/deko-groschen/groschen_2"},
+      { "model": "minecraft:block/deko-groschen/haendlerwaage"},
+      { "model": "minecraft:block/deko-groschen/haendlerwaage", "y": 90}
+    ],
+    "powered=true": [
+      { "model": "minecraft:block/deko-groschen/groschen_1"},
+      { "model": "minecraft:block/deko-groschen/groschen_1", "y": 90},
+      { "model": "minecraft:block/deko-groschen/groschen_2"},
+      { "model": "minecraft:block/deko-groschen/haendlerwaage"},
+      { "model": "minecraft:block/deko-groschen/haendlerwaage", "y": 90}
+    ]
+  }
+}

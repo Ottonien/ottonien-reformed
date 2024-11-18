@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/granite_slab_double_side",
+        "west": "block/granite_slab_double_side",
+        "east": "block/granite_slab_double_side",
+        "south": "block/granite_slab_double_side",
+        "up": "block/granite_slab_double_end",
+        "down": "block/granite_slab_double_end",
+        "particle": "block/granite"
+    }
+}

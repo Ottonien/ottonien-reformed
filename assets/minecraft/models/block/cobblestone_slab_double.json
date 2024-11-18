@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/cobblestone_slab_double_side",
+        "west": "block/cobblestone_slab_double_side",
+        "east": "block/cobblestone_slab_double_side",
+        "south": "block/cobblestone_slab_double_side",
+        "up": "block/cobblestone_slab_double_end",
+        "down": "block/cobblestone_slab_double_end",
+        "particle": "block/cobblestone"
+    }
+}

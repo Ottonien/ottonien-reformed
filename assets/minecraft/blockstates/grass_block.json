@@ -1,0 +1,12 @@
+{
+    "multipart": [
+        {"when": {"snowy": false}, "apply": [
+            {"model": "block/grass_block", "weight": 40 },
+            {"model": "block/grass_block1", "weight": 30 },
+            {"model": "block/grass_block2", "weight": 20 }
+        ]
+        },
+
+        {"when": {"snowy": true}, "apply": {"model": "block/grass_block_snow"}}
+    ]
+}

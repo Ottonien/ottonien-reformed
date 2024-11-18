@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/polished_diorite_slab_double_side",
+        "west": "block/polished_diorite_slab_double_side",
+        "east": "block/polished_diorite_slab_double_side",
+        "south": "block/polished_diorite_slab_double_side",
+        "up": "block/polished_diorite_slab_double_end",
+        "down": "block/polished_diorite_slab_double_end",
+        "particle": "block/polished_diorite"
+    }
+}

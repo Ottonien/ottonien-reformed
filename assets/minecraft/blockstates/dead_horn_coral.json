@@ -1,0 +1,20 @@
+{
+    "variants": {
+	    "": [
+    	{"model": "minecraft:block/deko-korbwaren/holzkasten"},
+    	{"model": "minecraft:block/deko-korbwaren/holzkasten", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_1"},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_1", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_2"},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_2", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_3"},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_3", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_4"},
+    	{"model": "minecraft:block/deko-korbwaren/sammelkorb_4", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/kuebel_1"},
+    	{"model": "minecraft:block/deko-korbwaren/kuebel_1", "y": 90},
+    	{"model": "minecraft:block/deko-korbwaren/kuebel_2"},
+    	{"model": "minecraft:block/deko-korbwaren/kuebel_2", "y": 90}
+		]
+    }
+}

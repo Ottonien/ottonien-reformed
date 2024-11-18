@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "powered=false": [
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_1"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_2"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_3"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_4"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_5"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_6"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_7"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_8"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_9"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_10"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_11"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_12"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_13"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_14"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_15"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_16"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_17"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_18"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_19"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_20"}
+
+    ],
+    "powered=true": [
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_1"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_2"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_3"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_4"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_5"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_6"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_7"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_8"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_9"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_10"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_11"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_12"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_13"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_14"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_15"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_16"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_17"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_18"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_19"},
+      { "model": "minecraft:block/deko-tonwaren/tonwaren_20"}
+
+    ]
+  }
+}

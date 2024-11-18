@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+      {"model": "minecraft:block/deko-pergament/brief"},
+      {"model": "minecraft:block/deko-pergament/brief", "y": 90},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_1"},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_1", "y": 90},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_2"},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_2", "y": 90},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_3"},
+      {"model": "minecraft:block/deko-pergament/brief_mit_schreibzeug_3", "y": 90}
+    ],
+    "candles=1,lit=true": {
+      "model": "minecraft:block/orange_candle_one_candle_lit"
+    },
+    "candles=2,lit=false": [
+      {"model": "minecraft:block/deko-pergament/zeichnung"},
+      {"model": "minecraft:block/deko-pergament/zeichnung", "y": 90},
+      {"model": "minecraft:block/deko-pergament/landkarte"},
+      {"model": "minecraft:block/deko-pergament/landkarte", "y": 90}
+    ],
+    "candles=2,lit=true": {
+      "model": "minecraft:block/orange_candle_two_candles_lit"
+    },
+    "candles=3,lit=false": [
+      {"model": "minecraft:block/deko-pergament/schriftrolle"},
+      {"model": "minecraft:block/deko-pergament/schriftrolle", "y": 90}
+    ],
+    "candles=3,lit=true": {
+      "model": "minecraft:block/orange_candle_three_candles_lit"
+    },
+    "candles=4,lit=false": [
+      {"model": "minecraft:block/deko-pergament/schriftrollenstapel_1"},
+      {"model": "minecraft:block/deko-pergament/schriftrollenstapel_1", "y": 90},
+      {"model": "minecraft:block/deko-pergament/schriftrollenstapel_2"},
+      {"model": "minecraft:block/deko-pergament/schriftrollenstapel_2", "y": 90}
+    ],
+    "candles=4,lit=true": {
+      "model": "minecraft:block/orange_candle_four_candles_lit"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+	    "": [
+    	{"model": "block/warped_fungus", "weight": 10},
+    	{"model": "block/warped_fungus", "y": 90, "weight": 10},
+    	{"model": "block/warped_fungus", "y": 180, "weight": 10},
+    	{"model": "block/warped_fungus", "y": 270, "weight": 10},
+    	{"model": "block/warped_fungus1", "weight": 10},
+    	{"model": "block/warped_fungus1", "y": 90, "weight": 10},
+    	{"model": "block/warped_fungus1", "y": 180, "weight": 10},
+    	{"model": "block/warped_fungus1", "y": 270, "weight": 10},
+    	{"model": "block/warped_fungus2", "weight": 10},
+    	{"model": "block/warped_fungus2", "y": 90, "weight": 10},
+    	{"model": "block/warped_fungus2", "y": 180, "weight": 10},
+    	{"model": "block/warped_fungus2", "y": 270, "weight": 10}
+		]
+    }
+}

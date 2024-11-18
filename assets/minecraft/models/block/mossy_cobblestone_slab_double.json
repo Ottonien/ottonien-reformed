@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/mossy_cobblestone_slab_double_side",
+        "west": "block/mossy_cobblestone_slab_double_side",
+        "east": "block/mossy_cobblestone_slab_double_side",
+        "south": "block/mossy_cobblestone_slab_double_side",
+        "up": "block/mossy_cobblestone_slab_double_end",
+        "down": "block/mossy_cobblestone_slab_double_end",
+        "particle": "block/mossy_cobblestone_slab_double_end"
+    }
+}

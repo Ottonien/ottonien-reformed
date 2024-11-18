@@ -1,0 +1,44 @@
+{
+	"credit": "Made with blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/dekorationen/plunder-dekoration/trommel",
+		"particle": "block/dekorationen/plunder-dekoration/trommel"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 14],
+			"to": [12, 1, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 8, 3.5, 8.5], "texture": "#0"},
+				"east": {"uv": [8, 1.5, 8.5, 2], "texture": "#0"},
+				"south": {"uv": [8, 0, 11.5, 0.5], "texture": "#0"},
+				"west": {"uv": [8, 2, 8.5, 2.5], "texture": "#0"},
+				"up": {"uv": [11.5, 1, 8, 0.5], "texture": "#0"},
+				"down": {"uv": [11.5, 1, 8, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, -2],
+			"to": [14, 5, 7],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 10, 4.5, 12.5], "texture": "#0"},
+				"east": {"uv": [11.5, 0, 16, 2.5], "texture": "#0"},
+				"south": {"uv": [4.5, 11.5, 9, 14], "texture": "#0"},
+				"west": {"uv": [9, 11.5, 13.5, 14], "texture": "#0"},
+				"up": {"uv": [12.5, 7, 8, 2.5], "texture": "#0"},
+				"down": {"uv": [12.5, 7, 8, 11.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

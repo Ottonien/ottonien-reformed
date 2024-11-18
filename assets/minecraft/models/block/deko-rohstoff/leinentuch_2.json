@@ -1,0 +1,44 @@
+{
+	"credit": "Made with blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/dekorationen/rohstoff-dekoration/leinentuch_2",
+		"particle": "block/dekorationen/rohstoff-dekoration/leinentuch_2"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 12],
+			"to": [5, 2, 16],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 6],
+			"to": [9, 3, 12],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 4.5], "texture": "#0"},
+				"east": {"uv": [3, 4.5, 6, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 3, 7.5], "texture": "#0"},
+				"west": {"uv": [6, 0, 9, 1.5], "texture": "#0"},
+				"up": {"uv": [3, 6, 0, 3], "texture": "#0"},
+				"down": {"uv": [6, 0, 3, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

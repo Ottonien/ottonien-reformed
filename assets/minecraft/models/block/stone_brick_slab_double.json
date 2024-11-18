@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "block/stone_brick_slab_double_side",
+        "west": "block/stone_brick_slab_double_side",
+        "east": "block/stone_brick_slab_double_side",
+        "south": "block/stone_brick_slab_double_side",
+        "up": "block/stone_brick_slab_double_end",
+        "down": "block/stone_brick_slab_double_end",
+        "particle": "block/stone_bricks"
+    }
+}

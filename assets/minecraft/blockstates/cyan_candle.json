@@ -1,0 +1,69 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+      {"model": "minecraft:block/deko-nahrung/aepfel_1"},
+      {"model": "minecraft:block/deko-nahrung/aepfel_1", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/aepfel_2"},
+      {"model": "minecraft:block/deko-nahrung/aepfel_2", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/apfelkorb"},
+      {"model": "minecraft:block/deko-nahrung/apfelkorb", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/zwiebeln_1"},
+      {"model": "minecraft:block/deko-nahrung/zwiebeln_1", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/zwiebeln_2"},
+      {"model": "minecraft:block/deko-nahrung/zwiebeln_2", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/zwiebelkorb"},
+      {"model": "minecraft:block/deko-nahrung/zwiebelkorb", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/beerchen"},
+      {"model": "minecraft:block/deko-nahrung/beerchen", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/johanniskraut"},
+      {"model": "minecraft:block/deko-nahrung/johanniskraut", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/kraeuterschale"},
+      {"model": "minecraft:block/deko-nahrung/kraeuterschale", "y": 90}
+    ],
+    "candles=1,lit=true": {
+      "model": "minecraft:block/orange_candle_one_candle_lit"
+    },
+    "candles=2,lit=false": [
+      {"model": "minecraft:block/deko-nahrung/getreidebrei_1"},
+      {"model": "minecraft:block/deko-nahrung/getreidebrei_1", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/getreidebrei_2"},
+      {"model": "minecraft:block/deko-nahrung/getreidebrei_2", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/beerenkuchen"},
+      {"model": "minecraft:block/deko-nahrung/beerenkuchen", "y": 90}
+    ],
+    "candles=2,lit=true": {
+      "model": "minecraft:block/orange_candle_two_candles_lit"
+    },
+    "candles=3,lit=false": [
+      {"model": "minecraft:block/deko-nahrung/eier_1"},
+      {"model": "minecraft:block/deko-nahrung/eier_1", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/eier_2"},
+      {"model": "minecraft:block/deko-nahrung/eier_2", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/milch"},
+      {"model": "minecraft:block/deko-nahrung/milch", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/honig"},
+      {"model": "minecraft:block/deko-nahrung/honig", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/kaese_1"},
+      {"model": "minecraft:block/deko-nahrung/kaese_1", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/kaese_2"},
+      {"model": "minecraft:block/deko-nahrung/kaese_2", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/schmalz"},
+      {"model": "minecraft:block/deko-nahrung/schmalz", "y": 90}
+    ],
+    "candles=3,lit=true": {
+      "model": "minecraft:block/orange_candle_three_candles_lit"
+    },
+    "candles=4,lit=false": [
+      {"model": "minecraft:block/deko-nahrung/hasenbraten"},
+      {"model": "minecraft:block/deko-nahrung/hasenbraten", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/huehnchen"},
+      {"model": "minecraft:block/deko-nahrung/huehnchen", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/innereien"},
+      {"model": "minecraft:block/deko-nahrung/innereien", "y": 90},
+      {"model": "minecraft:block/deko-nahrung/wild"}
+    ],
+    "candles=4,lit=true": {
+      "model": "minecraft:block/orange_candle_four_candles_lit"
+    }
+  }
+}

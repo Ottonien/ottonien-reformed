@@ -1,0 +1,8 @@
+{
+    "parent": "block/glazed_terracotta2",
+    "textures": {
+        "particle": "block/brown_tudor_right",
+        "pattern": "block/brown_tudor_right"
+    }
+}
+2

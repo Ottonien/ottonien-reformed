@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_1"},
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_2"},
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_2", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_3"},
+      {"model": "minecraft:block/deko-geschirr/holzloeffel_3", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallloeffel_1"},
+      {"model": "minecraft:block/deko-geschirr/metallloeffel_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallloeffel_2"},
+      {"model": "minecraft:block/deko-geschirr/metallloeffel_2", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/gabel_1"},
+      {"model": "minecraft:block/deko-geschirr/gabel_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/gabel_2"},
+      {"model": "minecraft:block/deko-geschirr/gabel_2", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/tischmesser_1"},
+      {"model": "minecraft:block/deko-geschirr/tischmesser_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/tischmesser_2"},
+      {"model": "minecraft:block/deko-geschirr/tischmesser_2", "y": 90}
+    ],
+    "candles=1,lit=true": {
+      "model": "minecraft:block/orange_candle_one_candle_lit"
+    },
+    "candles=2,lit=false": [
+      {"model": "minecraft:block/deko-geschirr/holzschale_1"},
+      {"model": "minecraft:block/deko-geschirr/holzschale_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/holzschale_2"},
+      {"model": "minecraft:block/deko-geschirr/holzschale_2", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/tablett_1"},
+      {"model": "minecraft:block/deko-geschirr/tablett_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/tablett_2"},
+      {"model": "minecraft:block/deko-geschirr/tablett_2", "y": 90}
+    ],
+    "candles=2,lit=true": {
+      "model": "minecraft:block/orange_candle_two_candles_lit"
+    },
+    "candles=3,lit=false": [
+      {"model": "minecraft:block/deko-geschirr/metallteller_1"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallteller_2"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_2", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallteller_3"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_3", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallteller_4"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_4", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallteller_5"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_5", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/metallteller_6"},
+      {"model": "minecraft:block/deko-geschirr/metallteller_6", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/zierteller"},
+      {"model": "minecraft:block/deko-geschirr/zierteller", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/servierteller"},
+      {"model": "minecraft:block/deko-geschirr/servierteller", "y": 90}
+    ],
+    "candles=3,lit=true": {
+      "model": "minecraft:block/orange_candle_three_candles_lit"
+    },
+    "candles=4,lit=false": [
+      {"model": "minecraft:block/deko-geschirr/salzstreuer"},
+      {"model": "minecraft:block/deko-geschirr/salzstreuer", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/salzgefaess_1"},
+      {"model": "minecraft:block/deko-geschirr/salzgefaess_1", "y": 90},
+      {"model": "minecraft:block/deko-geschirr/salzgefaess_2"},
+      {"model": "minecraft:block/deko-geschirr/salzgefaess_2", "y": 90}
+    ],
+    "candles=4,lit=true": {
+      "model": "minecraft:block/orange_candle_four_candles_lit"
+    }
+  }
+}
