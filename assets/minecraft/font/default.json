@@ -1,0 +1,58 @@
+{
+   "providers":[
+      {
+         "file": "custom_ui/negative_space.png",
+         "ascent":-32768,
+         "type": "bitmap",
+         "chars":[
+            "ꈃ"
+         ],
+         "height":-10
+      },
+      {
+         "file": "custom_ui/negative_space.png",
+         "ascent":-8192,
+         "type": "bitmap",
+         "chars":[
+            "仠"
+         ],
+         "height":-10
+      },
+      {
+         "type": "bitmap", 
+         "file": "custom_ui/space_split.png",
+         "ascent": -32768,
+         "height": -4,
+         "chars": [
+             "亠"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"custom_ui/player_menu_2.png",
+         "ascent":43,
+         "height":256,
+         "chars":[
+            "쇳"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"custom_ui/talentpunkt.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "仙"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"custom_ui/heller.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "丼"
+         ]
+      }
+   ]
+}
