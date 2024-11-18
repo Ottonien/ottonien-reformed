@@ -1,5 +1,5 @@
 # ottonien-reformed
-Das offizielle Resourcepack für den Ottonien Server.
+Das offizielle Resourcepack für den Ottonien Server | MC 1.20.4
 
 Hinweis: Dieses Server-Pack ändert fundamentale Texturen und wird diese daher im Single Player Modus oder auf anderen Minecraft Servern nicht wie erwartet anzeigen.
 
