@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/white_tudor_small_plain" },
+        "facing=west": { "model": "block/white_tudor_small_right" },
+        "facing=north": { "model": "block/white_tudor_small_cross" },
+        "facing=east": { "model": "block/white_tudor_small_left" }
+    }
+}
