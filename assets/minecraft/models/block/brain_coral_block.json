@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/muehle_top",
+		"1": "block/muehle_side",
+		"2": "block/muehle_down",
+		"3": "block/muehlstein",
+		"particle": "block/muehle_top"
+	},
+	"elements": [
+		{
+			"from": [6, 19, 6],
+			"to": [10, 21, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20, 8]},
+			"faces": {
+				"north": {"uv": [10, 4, 14, 6], "texture": "#3"},
+				"east": {"uv": [10, 4, 14, 6], "texture": "#3"},
+				"south": {"uv": [10, 4, 14, 6], "texture": "#3"},
+				"west": {"uv": [10, 4, 14, 6], "texture": "#3"},
+				"up": {"uv": [10, 0, 14, 4], "texture": "#3"},
+				"down": {"uv": [10, 0, 14, 4], "texture": "#3"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [3, 16, 3],
+			"to": [13, 20, 13],
+			"faces": {
+				"north": {"uv": [0, 10, 10, 14], "texture": "#3"},
+				"east": {"uv": [0, 10, 10, 14], "texture": "#3"},
+				"south": {"uv": [0, 10, 10, 14], "texture": "#3"},
+				"west": {"uv": [0, 10, 10, 14], "texture": "#3"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "stein",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		},
+		1,
+		2
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"textureSize": [64, 32],
+	"credit": "© Ottonien.com",
+	"boxes": [
+		{
+			"coordinates": [-12, -12, 4, 8, 8, 8],
+			"uvNorth": [8, 8, 16, 16],
+			"uvEast": [0, 8, 8, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvUp": [8, 0, 16, 8],
+			"uvDown": [16, 0, 24, 8]
+		},
+		{
+			"coordinates": [-10, -8, 2, 4, 3, 2],
+			"uvNorth": [17, 17, 21, 20],
+			"uvEast": [15, 17, 17, 20],
+			"uvWest": [21, 17, 23, 20],
+			"uvUp": [18, 20, 22, 22],
+			"uvDown": [22, 20, 26, 22]
+		}
+	],
+	"submodels": [
+		{
+			"id": "LeftEar",
+			"rotate": [0, 0, 337.5],
+			"boxes": [
+				{
+					"coordinates": [-0.23234, -12.94812, 6, 3, 3, 1],
+					"uvNorth": [32, 1, 35, 4],
+					"uvSouth": [35, 1, 38, 4],
+					"uvWest": [31, 1, 32, 4],
+					"uvUp": [32, 0, 35, 1],
+					"uvDown": [31, 4, 34, 5]
+				}
+			]
+		},
+		{
+			"id": "RightEar",
+			"rotate": [0, 0, 22.5],
+			"boxes": [
+				{
+					"coordinates": [-17.57854, -6.8382, 6, 3, 3, 1],
+					"uvNorth": [25, 1, 28, 4],
+					"uvEast": [24, 1, 25, 4],
+					"uvSouth": [28, 1, 31, 4],
+					"uvUp": [25, 0, 28, 1],
+					"uvDown": [25, 4, 28, 5]
+				}
+			]
+		},
+		{
+			"id": "LeftBoar",
+			"rotate": [-15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-6, -6.47219, -0.22183, 1, 1, 4],
+					"uvNorth": [0, 0, 1, 1],
+					"uvEast": [0, 0, 4, 1],
+					"uvSouth": [0, 0, 1, 1],
+					"uvWest": [0, 0, 4, 1],
+					"uvUp": [0, 1, 1, 5],
+					"uvDown": [0, 0, 1, 4]
+				}
+			]
+		},
+		{
+			"id": "RightBoar",
+			"rotate": [-15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-11, -6.47219, -0.22183, 1, 1, 4],
+					"uvNorth": [0, 0, 1, 1],
+					"uvEast": [0, 0, 4, 1],
+					"uvSouth": [0, 0, 1, 1],
+					"uvWest": [0, 0, 4, 1],
+					"uvUp": [0, 1, 1, 5],
+					"uvDown": [0, 0, 1, 4]
+				}
+			]
+		}
+	]
+}

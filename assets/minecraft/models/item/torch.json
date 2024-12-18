@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/torch_handmodel",
-		"1": "block/flame",
-		"particle": "block/torch_handmodel"
+		"0": "block/fackel_hand",
+		"1": "block/flamme",
+		"particle": "block/fackel_hand"
 	},
 	"elements": [
 		{

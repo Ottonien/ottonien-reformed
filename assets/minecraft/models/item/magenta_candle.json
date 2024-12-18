@@ -1,0 +1,80 @@
+{
+	"credit": "© Ottonien.com",
+	"textures": {
+		"0": "block/dekorationen/pergament-dekoration/schriftrolle",
+		"particle": "block/dekorationen/pergament-dekoration/schriftrolle"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, 6],
+			"to": [11, 3, 9],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-1, 11, 2]},
+			"faces": {
+				"north": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"east": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"south": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"west": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"up": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"down": {"uv": [2, 0, 14, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1, 0, 10],
+			"to": [11, 3, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-1, 11, 2]},
+			"faces": {
+				"north": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"east": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"south": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"west": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"up": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"down": {"uv": [2, 0, 14, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 3, 1],
+			"to": [8, 6, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 11, 13]},
+			"faces": {
+				"north": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"east": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"south": {"uv": [2, 3, 5, 6], "texture": "#0"},
+				"west": {"uv": [2, 0, 14, 3], "texture": "#0"},
+				"up": {"uv": [2, 0, 14, 3], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [2, 0, 14, 3], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 5.25, 5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 3.5, 5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [32, 24, 5],
+			"translation": [1, 3.25, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
