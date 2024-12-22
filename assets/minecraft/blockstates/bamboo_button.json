@@ -1,0 +1,118 @@
+{
+  "variants": {
+    "face=ceiling,facing=east,powered=false": {
+      "model": "minecraft:block/bamboo_button_ceiling_east",
+      "x": 0,
+      "y": 0
+    },
+    "face=ceiling,facing=east,powered=true": {
+      "model": "minecraft:block/bamboo_button_ceiling_east",
+      "x": 0,
+      "y": 0
+    },
+    "face=ceiling,facing=north,powered=false": {
+      "model": "minecraft:block/bamboo_button_ceiling_north",
+      "x": 0,
+      "y": 0
+    },
+    "face=ceiling,facing=north,powered=true": {
+      "model": "minecraft:block/bamboo_button_ceiling_north",
+      "x": 0,
+      "y": 0
+    },
+    "face=ceiling,facing=south,powered=false": {
+      "model": "minecraft:block/bamboo_button_ceiling_south",
+      "x": 0
+    },
+    "face=ceiling,facing=south,powered=true": {
+      "model": "minecraft:block/bamboo_button_ceiling_south",
+      "x": 0
+    },
+    "face=ceiling,facing=west,powered=false": {
+      "model": "minecraft:block/bamboo_button_ceiling_west",
+      "x": 0,
+      "y": 0
+    },
+    "face=ceiling,facing=west,powered=true": {
+      "model": "minecraft:block/bamboo_button_ceiling_west",
+      "x": 0,
+      "y": 0
+    },
+    "face=floor,facing=east,powered=false": {
+      "model": "minecraft:block/bamboo_button_floor_east",
+      "y": 0
+    },
+    "face=floor,facing=east,powered=true": {
+      "model": "minecraft:block/bamboo_button_floor_east",
+      "y": 0
+    },
+    "face=floor,facing=north,powered=false": {
+      "model": "minecraft:block/bamboo_button_floor_north"
+    },
+    "face=floor,facing=north,powered=true": {
+      "model": "minecraft:block/bamboo_button_floor_north"
+    },
+    "face=floor,facing=south,powered=false": {
+      "model": "minecraft:block/bamboo_button_floor_south",
+      "y": 0
+    },
+    "face=floor,facing=south,powered=true": {
+      "model": "minecraft:block/bamboo_button_floor_south",
+      "y": 0
+    },
+    "face=floor,facing=west,powered=false": {
+      "model": "minecraft:block/bamboo_button_floor_west",
+      "y": 0
+    },
+    "face=floor,facing=west,powered=true": {
+      "model": "minecraft:block/bamboo_button_floor_west",
+      "y": 0
+    },
+    "face=wall,facing=east,powered=false": {
+      "model": "minecraft:block/bamboo_button_wall_east",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    },
+    "face=wall,facing=east,powered=true": {
+      "model": "minecraft:block/bamboo_button_wall_east",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    },
+    "face=wall,facing=north,powered=false": {
+      "model": "minecraft:block/bamboo_button_wall_north",
+      "uvlock": true,
+      "x": 0
+    },
+    "face=wall,facing=north,powered=true": {
+      "model": "minecraft:block/bamboo_button_wall_north",
+      "uvlock": true,
+      "x": 0
+    },
+    "face=wall,facing=south,powered=false": {
+      "model": "minecraft:block/bamboo_button_wall_south",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    },
+    "face=wall,facing=south,powered=true": {
+      "model": "minecraft:block/bamboo_button_wall_south",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    },
+    "face=wall,facing=west,powered=false": {
+      "model": "minecraft:block/bamboo_button_wall_west",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    },
+    "face=wall,facing=west,powered=true": {
+      "model": "minecraft:block/bamboo_button_wall_west",
+      "uvlock": true,
+      "x": 0,
+      "y": 0
+    }
+  }
+}

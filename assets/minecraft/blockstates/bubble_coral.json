@@ -1,18 +1,18 @@
 {
     "variants": {
 	    "": [
-    	{"model": "block/brown_mushroom", "weight": 20},
-    	{"model": "block/brown_mushroom", "y": 90, "weight": 2},
-    	{"model": "block/brown_mushroom", "y": 180, "weight": 20},
-    	{"model": "block/brown_mushroom", "y": 270, "weight": 20},
-    	{"model": "block/brown_mushroom1", "weight": 20},
-    	{"model": "block/brown_mushroom1", "y": 90, "weight": 20},
-    	{"model": "block/brown_mushroom1", "y": 180, "weight": 20},
-    	{"model": "block/brown_mushroom1", "y": 270, "weight": 20},
-    	{"model": "block/brown_mushroom2", "weight": 1},
-    	{"model": "block/brown_mushroom2", "y": 90, "weight": 1},
-    	{"model": "block/brown_mushroom2", "y": 180, "weight": 1},
-    	{"model": "block/brown_mushroom2", "y": 270, "weight": 1}
+    	{"model": "block/bubble_coral", "weight": 20},
+    	{"model": "block/bubble_coral", "y": 90, "weight": 2},
+    	{"model": "block/bubble_coral", "y": 180, "weight": 20},
+    	{"model": "block/bubble_coral", "y": 270, "weight": 20},
+    	{"model": "block/bubble_coral1", "weight": 20},
+    	{"model": "block/bubble_coral1", "y": 90, "weight": 20},
+    	{"model": "block/bubble_coral1", "y": 180, "weight": 20},
+    	{"model": "block/bubble_coral1", "y": 270, "weight": 20},
+    	{"model": "block/bubble_coral2", "weight": 1},
+    	{"model": "block/bubble_coral2", "y": 90, "weight": 1},
+    	{"model": "block/bubble_coral2", "y": 180, "weight": 1},
+    	{"model": "block/bubble_coral2", "y": 270, "weight": 1}
 		]
     }
 }

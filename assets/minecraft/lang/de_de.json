@@ -60,8 +60,6 @@
     "block.minecraft.tall_seagrass": "\u00A76Hohes Seegras",
     "block.minecraft.vine": "\u00A76Ranken",
     "block.minecraft.warped_fungus": "\u00A76Höhlenpilz",
-    "block.minecraft.red_mushroom": "\u00A76Fliegenpilz",
-    "block.minecraft.brown_mushroom": "\u00A76Steinpilz",
     "block.minecraft.hanging_roots": "\u00A76Hängende Wurzeln",
     "block.minecraft.dead_bush": "\u00A76Toter Busch",
     "block.minecraft.bubble_coral": "\u00A76Steinpilz",
@@ -218,6 +216,7 @@
     "block.minecraft.oak_trapdoor": "\u00A76Eichenholzfallt\u00fcr",
     "block.minecraft.oak_door": "\u00A76Eichenholzt\u00fcr",
     "block.minecraft.oak_sign": "\u00A76Eichenholzschild",
+    "block.minecraft.bamboo_button": "\u00A76Eichenholzbalken",
 
     "block.minecraft.warped_door": "\u00A76Verbarrikadierte Tür",
 
@@ -237,6 +236,7 @@
     "block.minecraft.spruce_trapdoor": "\u00A76Fichtenholzfallt\u00fcr",
     "block.minecraft.spruce_door": "\u00A76Fichtenholzt\u00fcr",
     "block.minecraft.spruce_sign": "\u00A76Fichtenholzschild",
+    "block.minecraft.polished_blackstone_button": "\u00A76Fichtenholzbalken",
 
     "block.minecraft.birch_sapling": "\u00A76Birkensetzling",
     "block.minecraft.birch_log": "\u00A76Birkenstamm",
