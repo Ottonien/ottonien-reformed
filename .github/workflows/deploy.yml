@@ -32,11 +32,20 @@ jobs:
       - name: Create zip file
         run: zip -r Ottonien.zip *
 
-      - name: Upload resource pack
-        uses: actions/upload-artifact@v3
+      - name: Set up GitHub CLI
+        uses: cli/cli@v2
         with:
-          name: Resourcepack
-          path: Ottonien.zip
+          version: 'latest'
+
+      - name: Authenticate GitHub CLI
+        run: gh auth login --with-token <<< ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get release tag
+        id: get_tag
+        run: echo "RELEASE_TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Upload resource pack
+        run: gh release upload "$RELEASE_TAG" Ottonien.zip
 
       - name: Deploy to CDN
         run: |
