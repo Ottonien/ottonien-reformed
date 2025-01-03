@@ -22,8 +22,8 @@ jobs:
 
       - name: Update version number
         run: |
-          apt update
-          apt install jq -y
+          sudo apt-get update
+          sudo apt-get install jq -y
           DESCRIPTION="\u00A78Ottonien.com Serverpack v$GITHUB_REF_NAME\n\u00A72Benötigt OptiFine \u00A76[MC 1.20.4]"
           jq --arg desc "$DESCRIPTION" '.pack.description = $desc' pack.mcmeta > pack.meta
           sed 's/\\\\/\\/g' pack.meta > pack.mcmeta
