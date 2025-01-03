@@ -32,11 +32,6 @@ jobs:
       - name: Create zip file
         run: zip -r Ottonien.zip *
 
-      - name: Set up GitHub CLI
-        uses: cli/cli@v2
-        with:
-          version: 'latest'
-
       - name: Authenticate GitHub CLI
         run: gh auth login --with-token <<< ${{ secrets.GITHUB_TOKEN }}
 
