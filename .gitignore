@@ -1,2 +1,5 @@
 # Mac specific ignores
 **/.DS_Store
+
+# IntelliJ files
+.idea

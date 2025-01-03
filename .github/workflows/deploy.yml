@@ -1,0 +1,49 @@
+name: Deploy
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+      - name: Adding Known Hosts
+        run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Get code
+        uses: actions/checkout@v2
+
+      - name: Update version number
+        run: |
+          sudo apt-get update
+          sudo apt-get install jq -y
+          DESCRIPTION="\u00A78Ottonien.com Serverpack v$GITHUB_REF_NAME\n\u00A72Benötigt OptiFine \u00A76[MC 1.20.4]"
+          jq --arg desc "$DESCRIPTION" '.pack.description = $desc' pack.mcmeta > pack.meta
+          sed 's/\\\\/\\/g' pack.meta > pack.mcmeta
+          rm pack.meta
+
+      - name: Create zip file
+        run: zip -r Ottonien.zip *
+
+      - name: Authenticate GitHub CLI
+        run: gh auth login --with-token <<< ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get release tag
+        id: get_tag
+        run: echo "RELEASE_TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Upload resource pack
+        run: gh release upload "$RELEASE_TAG" Ottonien.zip
+
+      - name: Deploy to CDN
+        run: |
+          rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/Ottonien.zip
+          rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/Ottonien.zip.new
+          rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/resourcepack/Ottonien_Reformed_v$GITHUB_REF_NAME.zip
