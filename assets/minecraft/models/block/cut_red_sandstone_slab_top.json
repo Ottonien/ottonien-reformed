@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/do_not_use",
+    "side": "minecraft:block/do_not_use",
+    "top": "minecraft:block/do_not_use"
+  }
+}

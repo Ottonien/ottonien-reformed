@@ -89,7 +89,8 @@
     "block.minecraft.white_carpet": "\u00A76Wei\u00dfer Teppich",
     "block.minecraft.blue_carpet": "\u00A76Blauer Teppich",
     "block.minecraft.red_carpet": "\u00A76Roter Teppich",
-    "block.minecraft.yellow_carpet": "\u00A76Gelber Teppich",
+    "block.minecraft.yellow_carpet": "\u00A76Stroh Teppich",
+    "block.minecraft.orange_carpet": "\u00A76Reet Teppich",
     "block.minecraft.green_carpet": "\u00A76Gr\u00fcner Teppich",
     "block.minecraft.brown_carpet": "\u00A76Brauner Teppich",
 
@@ -219,6 +220,8 @@
     "block.minecraft.bamboo_button": "\u00A76Eichenholzbalken",
 
     "block.minecraft.warped_door": "\u00A76Verbarrikadierte Tür",
+    "block.minecraft.crimson_trapdoor": "\u00A76Strohfalltür",
+    "block.minecraft.warped_trapdoor": "\u00A76Reetfalltür",
 
     "block.minecraft.spruce_sapling": "\u00A76Fichtensetzling",
     "block.minecraft.spruce_log": "\u00A76Fichtenstamm",
