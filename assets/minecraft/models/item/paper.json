@@ -1,0 +1,29 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/paper/1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/paper/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/paper/3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/paper/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/paper/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/paper/6" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/paper/7" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/paper/8" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/paper/9" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/paper/10" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/paper/11" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/paper/12" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/paper/13" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/paper/14" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/paper/15" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/paper/16" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/paper/17" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/paper/18" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/paper/19" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/paper/20" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/paper/21" }
+	]
+}
