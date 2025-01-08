@@ -167,9 +167,13 @@
     "block.minecraft.yellow_glazed_terracotta": "\u00A76Gelbes Fachwerk",
 
     "block.minecraft.white_concrete": "\u00A76Gewei\u00dfter Bruchstein",
+    "block.minecraft.cut_copper_slab": "\u00A76Gewei\u00dfte Bruchsteinstufe",
+    "block.minecraft.cut_copper_stairs": "\u00A76Gewei\u00dfte Bruchsteintreppe",
+    "block.minecraft.polished_deepslate_wall": "\u00A76Gewei\u00dfte Bruchsteinmauer",
     "block.minecraft.cracked_polished_blackstone_bricks": "\u00A76Gewei\u00dfte Steinziegel",
     "block.minecraft.purpur_slab": "\u00A76Gewei\u00dfte Steinziegelstufe",
     "block.minecraft.purpur_stairs": "\u00A76Gewei\u00dfte Steinziegeltreppe",
+    "block.minecraft.polished_blackstone_wall": "\u00A76Gewei\u00dfte Steinziegelmauer",
     "block.minecraft.cyan_concrete": "\u00A76Quadratische Tonfliesen",
     "block.minecraft.black_concrete": "\u00A76Geschachte Tonfliesen",
     "block.minecraft.red_terracotta": "\u00A76Verkantete Tonfliesen",
@@ -391,14 +395,17 @@
     "block.minecraft.deepslate_tiles": "\u00A76Schieferschindeln",
     "block.minecraft.deepslate_tile_slab": "\u00A76Schieferschindelstufe",
     "block.minecraft.deepslate_tile_stairs": "\u00A76Schieferschindeltreppe",
+    "block.minecraft.deepslate_tile_wall": "\u00A76Schieferschindelmauer",
 
     "block.minecraft.waxed_cut_copper": "\u00A76Ziegelschindeln",
     "block.minecraft.waxed_cut_copper_slab": "\u00A76Ziegelschindelstufe",
     "block.minecraft.waxed_cut_copper_stairs": "\u00A76Ziegelschindeltreppe",
+    "block.minecraft.deepslate_brick_wall": "\u00A76Ziegelschindelmauer",
 
     "block.minecraft.red_nether_bricks": "\u00A76Holzschindeln",
     "block.minecraft.red_nether_brick_slab": "\u00A76Holzschindelstufe",
     "block.minecraft.red_nether_brick_stairs": "\u00A76Holzschindeltreppe",
+    "block.minecraft.red_nether_brick_wall": "\u00A76Holzschindelmauer",
 
     "block.minecraft.warped_planks": "\u00A76Reet",
     "block.minecraft.warped_slab": "\u00A76Reetstufe",
