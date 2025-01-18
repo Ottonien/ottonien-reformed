@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "./kadaver_large",
+		"particle": "./kadaver_large"
+	},
+	"elements": [
+		{
+			"from": [-2, 0, 4],
+			"to": [18, 12, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 0, 4]},
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 7.5, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 2.5, 5.5], "texture": "#0"},
+				"south": {"uv": [10, 2.5, 15, 5.5], "texture": "#0"},
+				"west": {"uv": [7.5, 2.5, 10, 5.5], "texture": "#0"},
+				"up": {"uv": [7.5, 2.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [12.5, 0, 7.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 6, 12],
+			"to": [-2, 8, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 6, 12]},
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 1], "texture": "#0"},
+				"south": {"uv": [1.5, 0.5, 2, 1], "texture": "#0"},
+				"west": {"uv": [1, 0.5, 1.5, 1], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [1.5, 0, 1, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [18, 8, 12],
+			"to": [21, 10, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [18, 8, 12]},
+			"faces": {
+				"north": {"uv": [13.5, 0.5, 14.25, 1], "texture": "#0"},
+				"east": {"uv": [13, 0.5, 13.5, 1], "texture": "#0"},
+				"south": {"uv": [14.75, 0.5, 15.5, 1], "texture": "#0"},
+				"west": {"uv": [14.25, 0.5, 14.75, 1], "texture": "#0"},
+				"up": {"uv": [14.25, 0.5, 13.5, 0], "texture": "#0"},
+				"down": {"uv": [15, 0, 14.25, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 0, 1],
+			"to": [10, 0, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"up": {"uv": [4.75, 6.25, 2.5, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 23, 0],
+			"translation": [0, -18.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [18, 8, 12],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		3
+	]
+}
