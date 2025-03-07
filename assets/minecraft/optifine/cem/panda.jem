@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [160, 160],
-	"texture": "textures/entity/panda/lazy_panda.png",
 	"models": [
 		{
 			"part": "head",
@@ -26,7 +25,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 14, 0],
 					"boxes": [
-						{"coordinates": [-9.5, -13, -6.5, 19, 26, 13], "textureOffset": [0, 0]}
+						{"coordinates": [-9.5, -13, -6.5, 19, 26, 13], "textureOffset": [0, 25]}
 					],
 					"submodels": [
 						{
