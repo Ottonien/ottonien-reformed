@@ -1,0 +1,10 @@
+{
+ "custom.ost_intro": { "category": "master", "sounds": [ "custom/ost_intro" ] },
+ "custom.sword_hit_1": { "category": "master", "sounds": [ "custom/sword_hit_1" ] },
+ "custom.sword_impact_1": { "category": "master", "sounds": [ "custom/sword_impact_1" ] },
+ "custom.sword_impact_2": { "category": "master", "sounds": [ "custom/sword_impact_2" ] },
+ "custom.sword_impact_3": { "category": "master", "sounds": [ "custom/sword_impact_3" ] },
+ "custom.sword_impact_4": { "category": "master", "sounds": [ "custom/sword_impact_4" ] },
+ "custom.sword_impact_5": { "category": "master", "sounds": [ "custom/sword_impact_5" ] },
+ "custom.sword_impact_6": { "category": "master", "sounds": [ "custom/sword_impact_6" ] }
+}
