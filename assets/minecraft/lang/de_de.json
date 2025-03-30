@@ -320,6 +320,7 @@
     "block.minecraft.prismarine": "\u00A76Steinmauerwerk",
     "block.minecraft.prismarine_slab": "\u00A76Steinmauerwerkstufe",
     "block.minecraft.prismarine_stairs": "\u00A76Steinmauerwerktreppe",
+    "block.minecraft.nether_bricks": "\u00A76Verwitterter Bruchstein",
 
     "block.minecraft.gray_concrete": "\u00A76Andesit",
     "block.minecraft.andesite": "\u00A76Bruchandesit",
@@ -344,6 +345,7 @@
     "block.minecraft.quartz_block": "\u00A76Kalksteinmauerwerk",
     "block.minecraft.quartz_slab": "\u00A76Kalksteinmauerwerkstufe",
     "block.minecraft.quartz_stairs": "\u00A76Kalksteinmauerwerktreppe",
+    "block.minecraft.smooth_basalt": "\u00A76Verwitterter Bruchkalkstein",
 
     "block.minecraft.red_concrete": "\u00A76Granit",
     "block.minecraft.granite": "\u00A76Bruchgranit",
