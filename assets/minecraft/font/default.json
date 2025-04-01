@@ -209,6 +209,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/buchbilder/map_1.png",
+         "ascent":43,
+         "height":256,
+         "chars":[
+            "件"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/talentpunkt.png",
          "ascent":8,
          "height":10,
