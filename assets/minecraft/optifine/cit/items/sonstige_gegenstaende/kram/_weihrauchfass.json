@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./weihrauchfass",
+		"particle": "./weihrauchfass"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [24, 24, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, -18],
+			"translation": [6, -5.5, -0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 18],
+			"translation": [-4.5, -7.25, -0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-60, 90, 0],
+			"translation": [10, -3, 10]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-56, -90, 0],
+			"translation": [-7.25, -3, 10]
+		},
+		"gui": {
+			"rotation": [0, 0, -90],
+			"translation": [-4, 3, 0]
+		}
+	}
+}
