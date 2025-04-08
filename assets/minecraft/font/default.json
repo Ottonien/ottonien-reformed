@@ -227,11 +227,29 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/siegel.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "体"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/heller.png",
          "ascent":8,
          "height":10,
          "chars":[
             "丼"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"custom_ui/test/test.png",
+         "ascent":8,
+         "height":32,
+         "chars":[
+            "俠"
          ]
       }
    ]

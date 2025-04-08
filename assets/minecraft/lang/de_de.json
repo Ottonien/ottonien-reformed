@@ -227,6 +227,14 @@
     "block.minecraft.oak_sign": "\u00A76Eichenholzschild",
     "block.minecraft.bamboo_button": "\u00A76Eichenholzbalken",
 
+    "block.minecraft.mangrove_planks": "\u00A76Verkohlte Holzbretter",
+    "block.minecraft.mangrove_stairs": "\u00A76Verkohlte Holztreppe",
+    "block.minecraft.mangrove_slab": "\u00A76Verkohlte Holzstufe",
+    "block.minecraft.mangrove_fence": "\u00A76Verkohlter Holzzaun",
+    "block.minecraft.mangrove_fence_gate": "\u00A76Verkohltes Holzauntor",
+    "block.minecraft.mangrove_button": "\u00A76Verkohlter Holzknopf",
+    "block.minecraft.mangrove_pressure_plate": "\u00A76Verkohlte Holzdruckplatte",
+
     "block.minecraft.warped_door": "\u00A76Verbarrikadierte Tür",
     "block.minecraft.crimson_trapdoor": "\u00A76Strohfalltür",
     "block.minecraft.warped_trapdoor": "\u00A76Reetfalltür",
