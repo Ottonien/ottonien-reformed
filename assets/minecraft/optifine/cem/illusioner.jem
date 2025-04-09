@@ -1,0 +1,148 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 10, 8], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, -26, 0],
+			"boxes": [
+				{"coordinates": [-1, 23, -6, 2, 4, 2], "textureOffset": [24, 0]}
+			]
+		},
+		{
+			"part": "hat",
+			"id": "hat",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 23, -4, 8, 11, 8], "textureOffset": [32, 0], "sizeAdd": 0.45}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-3, 0, -0.5, 6, 5, 5], "textureOffset": [106, 14]},
+				{"coordinates": [-3.5, -0.5, -4, 7, 6, 4], "textureOffset": [106, 24]},
+				{"coordinates": [-4, 12, -3, 8, 12, 6], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 4, -3, 8, 20, 6], "textureOffset": [0, 0], "sizeAdd": 0.5},
+				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [40, 46]},
+				{
+					"coordinates": [-3.5, 0, 4, 7, 7, 7],
+					"uvNorth": [114, 0, 121, 7],
+					"uvEast": [100, 7, 107, 14],
+					"uvSouth": [107, 7, 114, 0],
+					"uvWest": [114, 7, 121, 14],
+					"uvUp": [114, 14, 107, 7],
+					"uvDown": [128, 7, 121, 14]
+				}
+			],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [-3, 2, 4],
+					"rotate": [0, 15, 0],
+					"boxes": [
+						{"coordinates": [-3, -1, -6, 3, 3, 6], "textureOffset": [110, 43]}
+					]
+				},
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [3, 3, 4],
+					"rotate": [0, -10, 0],
+					"texture": "textures/entity/illager/illusioner.png",
+					"textureSize": [128, 128],
+					"boxes": [
+						{"coordinates": [0, -2, -6, 3, 3, 6], "textureOffset": [110, 34]}
+					]
+				},
+				{
+					"id": "right_leg",
+					"invertAxis": "xy",
+					"translate": [2, 12, -12],
+					"boxes": [
+						{"coordinates": [-1.7, -12, 2, 3, 3, 6], "textureOffset": [110, 52]}
+					]
+				},
+				{
+					"id": "left_leg_sub_0",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-3.3, 0, -10, 3, 3, 6], "textureOffset": [110, 61]}
+					]
+				}
+			]
+		},
+		{
+			"part": "arms",
+			"id": "arms",
+			"invertAxis": "xy",
+			"translate": [0, -21.05, 1.05],
+			"rotate": [43, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 15.05, -3.05, 8, 4, 4], "textureOffset": [40, 38]},
+				{"coordinates": [4, 15.05, -3.05, 4, 8, 4], "textureOffset": [44, 22]}
+			],
+			"submodels": [
+				{
+					"id": "mirrored",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 15.05, -3.05, 4, 8, 4], "textureOffset": [44, 22]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"boxes": [
+				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}
