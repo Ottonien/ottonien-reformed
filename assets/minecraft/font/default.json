@@ -251,6 +251,15 @@
          "chars":[
             "俠"
          ]
+      },
+      {
+         "type":"bitmap",
+         "file":"custom_ui/namebadge.png",
+         "ascent":8,
+         "height":13,
+         "chars":[
+            "✦"
+         ]
       }
    ]
 }
