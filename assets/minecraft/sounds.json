@@ -1,10 +1,15 @@
 {
- "custom.ost_intro": { "category": "master", "sounds": [ "custom/ost_intro" ] },
- "custom.sword_hit_1": { "category": "master", "sounds": [ "custom/sword_hit_1" ] },
- "custom.sword_impact_1": { "category": "master", "sounds": [ "custom/sword_impact_1" ] },
- "custom.sword_impact_2": { "category": "master", "sounds": [ "custom/sword_impact_2" ] },
- "custom.sword_impact_3": { "category": "master", "sounds": [ "custom/sword_impact_3" ] },
- "custom.sword_impact_4": { "category": "master", "sounds": [ "custom/sword_impact_4" ] },
- "custom.sword_impact_5": { "category": "master", "sounds": [ "custom/sword_impact_5" ] },
- "custom.sword_impact_6": { "category": "master", "sounds": [ "custom/sword_impact_6" ] }
+ "custom.schwert_impact": { "category": "master", "sounds": ["custom/schwert_impact_1", "custom/schwert_impact_2", "custom/schwert_impact_3", "custom/schwert_impact_4" ]},
+ "custom.schwert_crit": { "category": "master", "sounds": [ "custom/schwert_crit" ] },
+ "custom.talent_halbschwerttechnik": { "category": "master", "sounds": [ "custom/talent_halbschwerttechnik" ] },
+ "custom.talent_aderlass": { "category": "master", "sounds": [ "custom/talent_aderlass" ] },
+ "custom.talent_flinker_schnitt": { "category": "master", "sounds": [ "custom/talent_flinker_schnitt" ] },
+ "custom.talent_wuchthau": { "category": "master", "sounds": [ "custom/talent_wuchthau" ] },
+
+ "custom.dolch_impact": { "category": "master", "sounds": ["custom/dolch_impact_1", "custom/dolch_impact_2", "custom/dolch_impact_3", "custom/dolch_impact_4" ]},
+ "custom.dolch_crit": { "category": "master", "sounds": [ "custom/dolch_crit" ] },
+
+ "custom.stumpfwaffe_impact": { "category": "master", "sounds": ["custom/stumpfwaffe_impact_1", "custom/stumpfwaffe_impact_2", "custom/stumpfwaffe_impact_3", "custom/stumpfwaffe_impact_4" ]},
+ "custom.stangenwaffe_impact": { "category": "master", "sounds": ["custom/stangenwaffe_impact_1", "custom/stangenwaffe_impact_2", "custom/stangenwaffe_impact_3", "custom/stangenwaffe_impact_4" ]},
+ "custom.stangenwaffe_crit": { "category": "master", "sounds": [ "custom/stangenwaffe_crit" ] }
 }

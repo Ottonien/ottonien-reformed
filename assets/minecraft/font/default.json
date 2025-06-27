@@ -245,6 +245,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/empty.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "伝"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/test/test.png",
          "ascent":8,
          "height":32,
