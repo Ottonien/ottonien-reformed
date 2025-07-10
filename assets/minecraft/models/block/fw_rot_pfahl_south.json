@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.6",
+	"credit": "© Ottonien.com",
+	"textures": {
+		"1": "block/pink_terracotta",
+		"2": "block/fw_rot_pfahl_ende",
+		"3": "block/fw_rot_pfahl_rechts_west",
+		"4": "block/fw_rot_pfahl_links_south",
+		"particle": "block/note_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

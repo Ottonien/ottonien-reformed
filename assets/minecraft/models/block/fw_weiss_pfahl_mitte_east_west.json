@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.6",
+	"credit": "© Ottonien.com",
+	"textures": {
+		"1": "block/fw_weiss_pfahl_mitte",
+		"2": "block/fw_weiss_pfahl_ende_mitte_doppelt",
+		"3": "block/white_terracotta",
+		"particle": "block/note_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#2"}
+			}
+		}
+	]
+}

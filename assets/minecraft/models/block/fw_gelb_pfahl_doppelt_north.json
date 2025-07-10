@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.6",
+	"credit": "© Ottonien.com",
+	"textures": {
+		"2": "block/fw_gelb_pfahl_ende_doppelt",
+		"4": "block/fw_gelb_pfahl_doppelt",
+		"5": "block/fw_gelb_pfahl_rechts_east",
+		"6": "block/yellow_terracotta",
+		"7": "block/fw_gelb_pfahl_links_west",
+		"particle": "block/note_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#2"}
+			}
+		}
+	]
+}

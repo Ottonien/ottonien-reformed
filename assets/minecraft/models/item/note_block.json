@@ -1,0 +1,42 @@
+{
+  "parent": "item/block",
+  "textures": {
+    "layer0": "note_block"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1002}, "model": "item/fw_weiss_balken" },
+    { "predicate": { "custom_model_data": 1003}, "model": "item/fw_weiss_pfahl" },
+    { "predicate": { "custom_model_data": 1004}, "model": "item/fw_weiss_strebe" },
+    { "predicate": { "custom_model_data": 1005}, "model": "item/fw_weiss_zierde" },
+
+    { "predicate": { "custom_model_data": 1006}, "model": "item/fw_bricks_balken" },
+    { "predicate": { "custom_model_data": 1007}, "model": "item/fw_bricks_pfahl" },
+    { "predicate": { "custom_model_data": 1008}, "model": "item/fw_bricks_strebe" },
+    { "predicate": { "custom_model_data": 1009}, "model": "item/fw_bricks_zierde" },
+
+    { "predicate": { "custom_model_data": 1010}, "model": "item/fw_gelb_balken" },
+    { "predicate": { "custom_model_data": 1011}, "model": "item/fw_gelb_pfahl" },
+    { "predicate": { "custom_model_data": 1012}, "model": "item/fw_gelb_strebe" },
+    { "predicate": { "custom_model_data": 1013}, "model": "item/fw_gelb_zierde" },
+
+    { "predicate": { "custom_model_data": 1014}, "model": "item/fw_natur_balken" },
+    { "predicate": { "custom_model_data": 1015}, "model": "item/fw_natur_pfahl" },
+    { "predicate": { "custom_model_data": 1016}, "model": "item/fw_natur_strebe" },
+    { "predicate": { "custom_model_data": 1017}, "model": "item/fw_natur_zierde" },
+
+    { "predicate": { "custom_model_data": 1018}, "model": "item/fw_braun_balken" },
+    { "predicate": { "custom_model_data": 1019}, "model": "item/fw_braun_pfahl" },
+    { "predicate": { "custom_model_data": 1020}, "model": "item/fw_braun_strebe" },
+    { "predicate": { "custom_model_data": 1021}, "model": "item/fw_braun_zierde" },
+
+    { "predicate": { "custom_model_data": 1022}, "model": "item/fw_rot_balken" },
+    { "predicate": { "custom_model_data": 1023}, "model": "item/fw_rot_pfahl" },
+    { "predicate": { "custom_model_data": 1024}, "model": "item/fw_rot_strebe" },
+    { "predicate": { "custom_model_data": 1025}, "model": "item/fw_rot_zierde" },
+
+    { "predicate": { "custom_model_data": 1026}, "model": "item/fw_grau_balken" },
+    { "predicate": { "custom_model_data": 1027}, "model": "item/fw_grau_pfahl" },
+    { "predicate": { "custom_model_data": 1028}, "model": "item/fw_grau_strebe" },
+    { "predicate": { "custom_model_data": 1029}, "model": "item/fw_grau_zierde" }
+  ]
+}
