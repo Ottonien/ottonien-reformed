@@ -45,5 +45,4 @@ jobs:
       - name: Deploy to CDN
         run: |
           rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/Ottonien.zip
-          rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/Ottonien.zip.new
           rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/resourcepack/Ottonien_Reformed_v$GITHUB_REF_NAME.zip
