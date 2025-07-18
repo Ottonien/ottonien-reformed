@@ -46,3 +46,9 @@ jobs:
         run: |
           rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/Ottonien.zip
           rsync -avzh -e "ssh -p ${{ secrets.SSH_PORT }}" Ottonien.zip ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOYMENT_PATH }}/resourcepack/Ottonien_Reformed_v$GITHUB_REF_NAME.zip
+    
+          # Clean up old files, keep only the latest 10
+          ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
+            cd '${{ secrets.DEPLOYMENT_PATH }}/resourcepack' || exit 1
+            ls -tp Ottonien_Reformed_v*.zip | grep -v '/$' | tail -n +11 | xargs -r rm --
+          EOF
