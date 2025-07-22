@@ -227,6 +227,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/pietaet.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "以"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/siegel.png",
          "ascent":8,
          "height":10,
