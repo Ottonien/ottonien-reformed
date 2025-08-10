@@ -254,6 +254,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/ruf.png",
+         "ascent":8,
+         "height":10,
+         "chars":[
+            "亼"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/empty.png",
          "ascent":8,
          "height":10,
