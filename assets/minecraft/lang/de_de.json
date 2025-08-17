@@ -3,6 +3,7 @@
     "container.inventory": "",
     "container.crafting": "",
     "effect.minecraft.luck": "Schildausdauer",
+  "effect.minecraft.hero_of_the_village": "Talent Cooldown",
 
     "advancements.toast.goal": "\u00A76Erfahrung gewonnen!",
     "advancements.toast.task": "\u00A77Quest aktualisiert",
