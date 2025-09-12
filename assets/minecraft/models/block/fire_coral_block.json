@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/kerker_side",
-		"2": "block/kerker_end"
+		"2": "block/kerker_end",
+		"particle": "block/kerker_side"
 	},
 	"elements": [
 		{
