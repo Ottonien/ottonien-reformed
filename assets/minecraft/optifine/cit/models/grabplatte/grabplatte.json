@@ -1,0 +1,29 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./grabplatte",
+		"particle": "./grabplatte"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1.1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, -2]},
+			"faces": {
+				"north": {"uv": [1, 1.5, 8, 1.55], "texture": "#0"},
+				"east": {"uv": [1, 1.5, 7, 1.55], "texture": "#0"},
+				"south": {"uv": [1, 1.5, 8, 1.55], "texture": "#0"},
+				"west": {"uv": [1, 1.5, 7, 1.55], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -16.25, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}
