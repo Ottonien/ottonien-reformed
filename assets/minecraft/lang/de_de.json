@@ -14,7 +14,11 @@
     "item.minecraft.flint": "\u00A76Wolle",
     "item.minecraft.prismarine_shard": "\u00A76Flachs",
     "item.minecraft.popped_chorus_fruit": "\u00A76Kalk",
+    "item.minecraft.brick": "\u00A76Backstein",
+    "item.minecraft.charcoal": "\u00A76Holzkohle",
 
+    "block.minecraft.cauldron": "\u00A76Zuber",
+    "block.minecraft.flower_pot": "\u00A76Blumentopf",
     "block.minecraft.dirt": "\u00A76Erde",
     "block.minecraft.coarse_dirt": "\u00A76Grobe Erde",
     "block.minecraft.rooted_dirt": "\u00A76Wurzelerde",
