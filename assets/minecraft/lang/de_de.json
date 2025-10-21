@@ -17,6 +17,8 @@
     "item.minecraft.brick": "\u00A76Backstein",
     "item.minecraft.charcoal": "\u00A76Holzkohle",
 
+    "block.minecraft.moss_carpet": "\u00A76Moosteppich",
+    "block.minecraft.torch": "\u00A76Fackel",
     "block.minecraft.cauldron": "\u00A76Zuber",
     "block.minecraft.flower_pot": "\u00A76Blumentopf",
     "block.minecraft.dirt": "\u00A76Erde",
@@ -83,6 +85,8 @@
     "block.minecraft.poppy": "\u00A76Mohn",
     "block.minecraft.rose_bush": "\u00A76Rosenstrauch",
     "block.minecraft.small_dripleaf": "\u00A76Katzenwedel",
+    "block.minecraft.cornflower": "\u00A76Kornblume",
+    "block.minecraft.lily_of_the_valley": "\u00A76Maiglöckchen",
 
     "block.minecraft.black_wool": "\u00A76Schwarze Wolle",
     "block.minecraft.white_wool": "\u00A76Wei\u00dfe Wolle",
@@ -338,6 +342,15 @@
     "block.minecraft.prismarine_slab": "\u00A76Steinmauerwerkstufe",
     "block.minecraft.prismarine_stairs": "\u00A76Steinmauerwerktreppe",
     "block.minecraft.nether_bricks": "\u00A76Verwitterter Bruchstein",
+
+    "block.minecraft.mossy_cobblestone": "\u00A76Bemooster Bruchstein",
+    "block.minecraft.mossy_cobblestone_stairs": "\u00A76Bemooste Bruchsteintreppe",
+    "block.minecraft.mossy_cobblestone_slab": "\u00A76Bemooste Bruchsteinstufe",
+    "block.minecraft.mossy_cobblestone_wall": "\u00A76Bemooste Bruchsteinmauer",
+    "block.minecraft.mossy_stone_bricks": "\u00A76Bemooster Steinziegel",
+    "block.minecraft.mossy_stone_brick_stairs": "\u00A76Bemooste Steinziegeltreppe",
+    "block.minecraft.mossy_stone_brick_slab": "\u00A76Bemooste Steinziegelstufe",
+    "block.minecraft.mossy_stone_brick_wall": "\u00A76Bemooste Steinziegelmauer",
 
     "block.minecraft.gray_concrete": "\u00A76Andesit",
     "block.minecraft.andesite": "\u00A76Bruchandesit",

@@ -4,7 +4,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/cabbage_large",
-		"1": "block/cabbage_large_outer"
+		"1": "block/cabbage_large_outer",
+		"particle": "block/cabbage_large"
 	},
 	"elements": [
 		{
