@@ -191,6 +191,8 @@
     "block.minecraft.black_concrete": "\u00A76Geschachte Tonfliesen",
     "block.minecraft.red_terracotta": "\u00A76Verkantete Tonfliesen",
     "block.minecraft.chiseled_nether_bricks": "\u00A76Zierfliese",
+    "block.minecraft.lime_concrete": "\u00A76Feinfliesen",
+    "block.minecraft.blue_concrete": "\u00A76Blaue Feinfliesen",
 
     "block.minecraft.light_blue_concrete": "\u00A76Gotikfresko",
     "block.minecraft.magenta_concrete": "\u00A76Orientfresko",
@@ -198,6 +200,9 @@
     "block.minecraft.pink_concrete": "\u00A76Rosenfresko",
     "block.minecraft.orange_concrete": "\u00A76Rautenfresko",
     "block.minecraft.yellow_concrete": "\u00A76Zinnenfresko",
+
+    "block.minecraft.bookshelf": "\u00A76Bücherregal",
+    "block.minecraft.chiseled_bookshelf": "\u00A76Gearbeitetes Bücherregal",
 
     "block.minecraft.glass": "\u00A76Glas",
     "block.minecraft.glass_pane": "\u00A76Glasscheibe",
