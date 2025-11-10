@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "block/brown_tudor" },
-        "facing=west": { "model": "block/brown_tudor_right" },
-        "facing=north": { "model": "block/brown_tudor_cross" },
-        "facing=east": { "model": "block/brown_tudor_left" }
-    }
-}

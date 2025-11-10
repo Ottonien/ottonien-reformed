@@ -3,7 +3,7 @@
     "container.inventory": "",
     "container.crafting": "",
     "effect.minecraft.luck": "Schildausdauer",
-  "effect.minecraft.hero_of_the_village": "Talent Cooldown",
+    "effect.minecraft.hero_of_the_village": "Talent Cooldown",
 
     "advancements.toast.goal": "\u00A76Erfahrung gewonnen!",
     "advancements.toast.task": "\u00A77Quest aktualisiert",
@@ -55,6 +55,7 @@
 
     "block.minecraft.crimson_fungus": "\u00A76Hopfenstaude",
     "block.minecraft.crimson_roots": "\u00A76Weinstock",
+    "block.minecraft.lantern": "\u00A76Laterne",
 
     "block.minecraft.warped_roots": "\u00A76Moorgras",
     "block.minecraft.azure_bluet": "\u00A76Wildgetreide",
@@ -87,6 +88,7 @@
     "block.minecraft.small_dripleaf": "\u00A76Katzenwedel",
     "block.minecraft.cornflower": "\u00A76Kornblume",
     "block.minecraft.lily_of_the_valley": "\u00A76Maiglöckchen",
+    "block.minecraft.white_tulip": "\u00A76Buschiges Gewächs",
 
     "block.minecraft.black_wool": "\u00A76Schwarze Wolle",
     "block.minecraft.white_wool": "\u00A76Wei\u00dfe Wolle",
@@ -175,10 +177,6 @@
     "block.minecraft.yellow_terracotta": "\u00A76Gelber gebrannter Ton",
     "block.minecraft.brown_terracotta": "\u00A76Brauner gebrannter Ton",
 
-    "block.minecraft.white_glazed_terracotta": "\u00A7cAltes Wei\u00dfes Fachwerk",
-    "block.minecraft.yellow_glazed_terracotta": "\u00A7cAltes Gelbes Fachwerk",
-    "block.minecraft.brown_glazed_terracotta": "\u00A7cAltes Braunes Fachwerk",
-
     "block.minecraft.white_concrete": "\u00A76Gewei\u00dfter Bruchstein",
     "block.minecraft.cut_copper_slab": "\u00A76Gewei\u00dfte Bruchsteinstufe",
     "block.minecraft.cut_copper_stairs": "\u00A76Gewei\u00dfte Bruchsteintreppe",
@@ -193,6 +191,7 @@
     "block.minecraft.chiseled_nether_bricks": "\u00A76Zierfliese",
     "block.minecraft.lime_concrete": "\u00A76Feinfliesen",
     "block.minecraft.blue_concrete": "\u00A76Blaue Feinfliesen",
+    "block.minecraft.calcite": "\u00A76Nonnenkopf",
 
     "block.minecraft.light_blue_concrete": "\u00A76Gotikfresko",
     "block.minecraft.magenta_concrete": "\u00A76Orientfresko",
