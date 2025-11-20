@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Ottonien.com",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./_langes_wandbanner_geistersee",
-		"particle": "./_langes_wandbanner_geistersee"
+		"0": "./nordhaven",
+		"particle": "./nordhaven"
 	},
 	"elements": [
 		{
