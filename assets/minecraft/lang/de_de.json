@@ -15,8 +15,9 @@
     "item.minecraft.prismarine_shard": "\u00A76Flachs",
     "item.minecraft.popped_chorus_fruit": "\u00A76Kalk",
     "item.minecraft.brick": "\u00A76Backstein",
-    "item.minecraft.charcoal": "\u00A76Holzkohle",
 
+    "block.minecraft.dripstone_block": "\u00A76Tropfsteinblock",
+    "block.minecraft.pointed_dripstone": "\u00A76Spitzer Tropfstein",
     "block.minecraft.moss_carpet": "\u00A76Moosteppich",
     "block.minecraft.kelp": "\u00A76Seetang",
     "block.minecraft.torch": "\u00A76Fackel",
@@ -49,6 +50,7 @@
     "block.minecraft.beehive": "\u00A76Imkerei",
     "block.minecraft.horn_coral_block": "\u00A76Wachmann",
     "block.minecraft.deepslate_emerald_ore": "\u00A76Badehaus",
+    "item.minecraft.item_frame": "\u00A76Rahmen",
 
     "block.minecraft.end_stone_brick_wall": "\u00A76Entrindete Eichenholzmauer",
     "block.minecraft.end_stone_brick_stairs": "\u00A76Entrindete Eichenholztreppe",
@@ -165,6 +167,8 @@
     "block.minecraft.fire_coral_block": "\u00A76Kerker",
     "block.minecraft.blast_furnace": "\u00A76Esse",
     "block.minecraft.mushroom_stem": "\u00A76Gerbertisch",
+    "block.minecraft.crafting_table": "\u00A76Werkbank",
+    "block.minecraft.furnace": "\u00A76Ofen",
     "block.minecraft.anvil": "\u00A76Amboss",
     "block.minecraft.smithing_table": "\u00A76Rüsttisch",
     "block.minecraft.fletching_table": "\u00A76Bognertisch",
@@ -403,9 +407,6 @@
     "block.minecraft.deepslate_bricks": "\u00A76Schieferziegel",
     "block.minecraft.deepslate_brick_slab": "\u00A76Schieferziegelstufe",
     "block.minecraft.deepslate_brick_stairs": "\u00A76Schieferziegeltreppe",
-    "block.minecraft.polished_deepslate": "\u00A76Schiefermauerwerk",
-    "block.minecraft.polished_deepslate_slab": "\u00A76Schiefermauerwerkstufe",
-    "block.minecraft.polished_deepslate_stairs": "\u00A76Schiefermauerwerktreppe",
 
     "block.minecraft.sandstone": "\u00A76Sandstein",
     "block.minecraft.sandstone_slab": "\u00A76Sandsteinstufe",
