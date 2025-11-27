@@ -248,6 +248,7 @@
     "block.minecraft.oak_trapdoor": "\u00A76Eichenholzfallt\u00fcr",
     "block.minecraft.oak_door": "\u00A76Eichenholzt\u00fcr",
     "block.minecraft.oak_sign": "\u00A76Eichenholzschild",
+    "block.minecraft.oak_hanging_sign": "\u00A76Eichenholzhängeschild",
     "block.minecraft.bamboo_button": "\u00A76Eichenholzbalken",
 
     "block.minecraft.mangrove_planks": "\u00A76Verkohlte Holzbretter",
@@ -278,6 +279,7 @@
     "block.minecraft.spruce_trapdoor": "\u00A76Fichtenholzfallt\u00fcr",
     "block.minecraft.spruce_door": "\u00A76Fichtenholzt\u00fcr",
     "block.minecraft.spruce_sign": "\u00A76Fichtenholzschild",
+    "block.minecraft.spruce_hanging_sign": "\u00A76Fichtenholzhängeschild",
     "block.minecraft.polished_blackstone_button": "\u00A76Fichtenholzbalken",
 
     "block.minecraft.birch_sapling": "\u00A76Birkensetzling",
@@ -296,6 +298,7 @@
     "block.minecraft.birch_trapdoor": "\u00A76Birkenholzfallt\u00fcr",
     "block.minecraft.birch_door": "\u00A76Birkenholzt\u00fcr",
     "block.minecraft.birch_sign": "\u00A76Birkenholzschild",
+    "block.minecraft.birch_hanging_sign": "\u00A76Birkenholzhängeschild",
 
     "block.minecraft.dark_oak_sapling": "\u00A76Buchensetzling",
     "block.minecraft.dark_oak_log": "\u00A76Buchenstamm",
@@ -313,6 +316,7 @@
     "block.minecraft.dark_oak_trapdoor": "\u00A76Buchenholzfallt\u00fcr",
     "block.minecraft.dark_oak_door": "\u00A76Buchenholzt\u00fcr",
     "block.minecraft.dark_oak_sign": "\u00A76Buchenholzschild",
+    "block.minecraft.dark_oak_hanging_sign": "\u00A76Buchenholzhängeschild",
 
     "block.minecraft.acacia_sapling": "\u00A76Weidensetzling",
     "block.minecraft.acacia_log": "\u00A76Weidenstamm",
@@ -330,6 +334,7 @@
     "block.minecraft.acacia_trapdoor": "\u00A76Weidenholzfallt\u00fcr",
     "block.minecraft.acacia_door": "\u00A76Weidenholzt\u00fcr",
     "block.minecraft.acacia_sign": "\u00A76Weidenholzschild",
+    "block.minecraft.acacia_hanging_sign": "\u00A76Weidenholzhängeschild",
 
     "block.minecraft.scaffolding": "\u00A76Ger\u00fcst",
     "block.minecraft.barrel": "\u00A76Fass",
