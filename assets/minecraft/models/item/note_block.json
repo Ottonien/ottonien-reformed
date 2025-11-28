@@ -1,5 +1,5 @@
 {
-  "parent": "item/block",
+  "parent": "block/note_block",
   "textures": {
     "layer0": "note_block"
   },
