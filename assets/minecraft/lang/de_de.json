@@ -15,6 +15,7 @@
     "item.minecraft.prismarine_shard": "\u00A76Flachs",
     "item.minecraft.popped_chorus_fruit": "\u00A76Kalk",
     "item.minecraft.brick": "\u00A76Backstein",
+    "block.minecraft.bell": "\u00A76Glocke",
 
     "block.minecraft.dripstone_block": "\u00A76Tropfsteinblock",
     "block.minecraft.pointed_dripstone": "\u00A76Spitzer Tropfstein",
@@ -357,6 +358,7 @@
     "block.minecraft.prismarine_slab": "\u00A76Steinmauerwerkstufe",
     "block.minecraft.prismarine_stairs": "\u00A76Steinmauerwerktreppe",
     "block.minecraft.nether_bricks": "\u00A76Verwitterter Bruchstein",
+    "block.minecraft.prismarine_wall": "\u00A76Steinmauerwerkmauer",
 
     "block.minecraft.mossy_cobblestone": "\u00A76Bemooster Bruchstein",
     "block.minecraft.mossy_cobblestone_stairs": "\u00A76Bemooste Bruchsteintreppe",
