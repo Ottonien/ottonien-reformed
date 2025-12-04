@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/arrow_offhand",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  }
+}

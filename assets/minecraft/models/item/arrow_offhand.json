@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "./optifine/cit/items/waffen/pfeile/uebungspfeil_offhand_1"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [6, 2, 2],
+			"color": 3,
+			"faces": {
+				"north": {"uv": [0, 0, 6, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 6, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 6, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 6, 2], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-28, 90, 0],
+			"translation": [-2, -5.75, -2.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-23, 90, -25],
+			"translation": [1.13, -1.3, 1.63],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}
