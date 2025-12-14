@@ -25,6 +25,6 @@
 		{ "predicate": { "custom_model_data": 19}, "model": "item/paper/19" },
 		{ "predicate": { "custom_model_data": 20}, "model": "item/paper/20" },
 		{ "predicate": { "custom_model_data": 21}, "model": "item/paper/21" },
-		{ "predicate": { "custom_model_data": 21}, "model": "item/paper/22" }
+		{ "predicate": { "custom_model_data": 22}, "model": "item/paper/22" }
 	]
 }

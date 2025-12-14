@@ -104,6 +104,7 @@
     "block.minecraft.green_wool": "\u00A76Gr\u00fcne Wolle",
     "block.minecraft.brown_wool": "\u00A76Braune Wolle",
 
+    "block.minecraft.lime_carpet": "\u00A76Gelber Teppich",
     "block.minecraft.black_carpet": "\u00A76Schwarzer Teppich",
     "block.minecraft.white_carpet": "\u00A76Wei\u00dfer Teppich",
     "block.minecraft.blue_carpet": "\u00A76Blauer Teppich",
@@ -185,6 +186,8 @@
     "block.minecraft.yellow_terracotta": "\u00A76Gelber gebrannter Ton",
     "block.minecraft.brown_terracotta": "\u00A76Brauner gebrannter Ton",
 
+    "block.minecraft.smooth_stone": "\u00A76Glatter Stein",
+    "block.minecraft.smooth_stone_slab": "\u00A76Glatte Steinstufe",
     "block.minecraft.white_concrete": "\u00A76Gewei\u00dfter Bruchstein",
     "block.minecraft.cut_copper_slab": "\u00A76Gewei\u00dfte Bruchsteinstufe",
     "block.minecraft.cut_copper_stairs": "\u00A76Gewei\u00dfte Bruchsteintreppe",
@@ -369,6 +372,8 @@
     "block.minecraft.mossy_stone_brick_stairs": "\u00A76Bemooste Steinziegeltreppe",
     "block.minecraft.mossy_stone_brick_slab": "\u00A76Bemooste Steinziegelstufe",
     "block.minecraft.mossy_stone_brick_wall": "\u00A76Bemooste Steinziegelmauer",
+    "block.minecraft.cracked_stone_bricks": "\u00A76Rissige Steinziegel",
+    "block.minecraft.chiseled_stone_bricks": "\u00A76Gemeißelte Steinziegel",
 
     "block.minecraft.gray_concrete": "\u00A76Andesit",
     "block.minecraft.andesite": "\u00A76Bruchandesit",
