@@ -1,7 +1,7 @@
 {
-	"parent": "item/handheld",
+	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/scute"
+		"layer0": "item/generated"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/scute/faesschen_empty" },
