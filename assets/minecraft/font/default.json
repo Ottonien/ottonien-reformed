@@ -218,6 +218,16 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/buchbilder/gewebte_gabe_der_geburt_christi.png",
+         "ascent":43,
+         "height":256,
+         "chars":[
+            "佬"
+         ]
+      },
+
+      {
+         "type":"bitmap",
          "file":"custom_ui/talentpunkt.png",
          "ascent":8,
          "height":10,
