@@ -17,6 +17,11 @@
     "item.minecraft.brick": "\u00A76Backstein",
     "item.minecraft.rabbit_stew": "\u00A76Nahrung",
     "block.minecraft.bell": "\u00A76Glocke",
+    "block.minecraft.ladder": "\u00A76Leiter",
+    "block.minecraft.stone_button": "\u00A76Steinknopf",
+    "block.minecraft.magenta_bed": "\u00A76Reet Bett",
+    "block.minecraft.orange_bed": "\u00A76Stroh Bett",
+    "block.minecraft.white_banner": "\u00A76Weißes Banner",
 
     "block.minecraft.dripstone_block": "\u00A76Tropfsteinblock",
     "block.minecraft.pointed_dripstone": "\u00A76Spitzer Tropfstein",
