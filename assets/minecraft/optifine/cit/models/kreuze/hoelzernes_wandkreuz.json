@@ -1,0 +1,82 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Ottonien.com",
+	"textures": {
+		"1": "./hoelzernes_wandkreuz",
+		"particle": "./hoelzernes_wandkreuz"
+	},
+	"elements": [
+		{
+			"from": [5, 8, 10],
+			"to": [9, 24, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 10]},
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#1"},
+				"west": {"uv": [0.00001, 0, 2.00001, 16], "texture": "#1"},
+				"up": {"uv": [10, 0, 14, 1], "texture": "#1"},
+				"down": {"uv": [2, 0, 6, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1, 16, 10],
+			"to": [5, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 16, 10]},
+			"faces": {
+				"north": {"uv": [2, 3, 6, 7], "texture": "#1"},
+				"south": {"uv": [10, 3, 14, 7], "texture": "#1"},
+				"west": {"uv": [0, 3, 2, 7], "texture": "#1"},
+				"up": {"uv": [10, 1, 14, 3], "texture": "#1"},
+				"down": {"uv": [14, 3, 10, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9, 16, 10],
+			"to": [13, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 16, 10]},
+			"faces": {
+				"north": {"uv": [2, 3, 6, 7], "texture": "#1"},
+				"east": {"uv": [0, 3, 2, 7], "texture": "#1"},
+				"south": {"uv": [2, 3, 6, 7], "texture": "#1"},
+				"west": {"uv": [0, 3, 2, 7], "texture": "#1"},
+				"up": {"uv": [10, 1, 14, 3], "texture": "#1"},
+				"down": {"uv": [14, 3, 10, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [-0.25, -4.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [-180, -180, -180],
+			"translation": [2, -16.25, -6],
+			"scale": [2, 2, 2]
+		}
+	}
+}
