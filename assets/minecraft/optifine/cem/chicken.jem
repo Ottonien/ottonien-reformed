@@ -1,6 +1,7 @@
 {
-	"texture": "textures/entity/chicken.png",
+	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
+	"texture": "textures/entity/chicken.png",
 	"models": [
 		{
 			"part": "head",
@@ -27,7 +28,8 @@
 			"invertAxis": "xy",
 			"translate": [0, -9, 4],
 			"boxes": [
-				{"coordinates": [-2, 11, -8, 4, 2, 2], "textureOffset": [14, 0]}
+				{"coordinates": [-2, 11, -8, 4, 2, 2], "textureOffset": [14, 0]},
+				{"coordinates": [-1, 11, -8, 2, 2, 2], "textureOffset": [38, 19]}
 			]
 		},
 		{
@@ -56,6 +58,19 @@
 					"rotate": [-15, 0, 0],
 					"boxes": [
 						{"coordinates": [-2.5, -8, 1.25, 5, 5, 2], "textureOffset": [50, 25]}
+					],
+					"submodels": [
+						{
+							"id": "Schweif",
+							"invertAxis": "xy",
+							"translate": [0, -8, 3],
+							"rotate": [-52.5, 0, 0],
+							"boxes": [
+								{"coordinates": [-1.5, -4, -3.75, 0, 5, 5], "textureOffset": [54, -5]},
+								{"coordinates": [1.5, -4, -3.75, 0, 5, 5], "textureOffset": [54, -5]},
+								{"coordinates": [0, -5, -4.75, 0, 8, 8], "textureOffset": [48, -3]}
+							]
+						}
 					]
 				}
 			],
@@ -71,7 +86,8 @@
 			"invertAxis": "xy",
 			"translate": [4, -11, 0],
 			"boxes": [
-				{"coordinates": [-4, 7, -3, 1, 4, 6], "textureOffset": [24, 13]}
+				{"coordinates": [-4, 7, -3, 1, 4, 6], "textureOffset": [24, 13]},
+				{"coordinates": [-4.1, 2, -2, 0, 9, 10], "textureOffset": [0, 13]}
 			]
 		},
 		{
@@ -80,7 +96,8 @@
 			"invertAxis": "xy",
 			"translate": [-4, -11, 0],
 			"boxes": [
-				{"coordinates": [3, 7, -3, 1, 4, 6], "textureOffset": [24, 13]}
+				{"coordinates": [3, 7, -3, 1, 4, 6], "textureOffset": [24, 13]},
+				{"coordinates": [4.1, 2, -2, 0, 9, 10], "textureOffset": [0, 13]}
 			]
 		},
 		{
