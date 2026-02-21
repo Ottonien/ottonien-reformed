@@ -1,10 +1,10 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Ottonien.com",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "./ausgestopfter_biber",
-		"particle": "./ausgestopfter_biber"
+		"2": "./jagdtrophaee_eines_bibers",
+		"particle": "./jagdtrophaee_eines_bibers"
 	},
 	"elements": [
 		{

@@ -1,29 +1,36 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
+	"textures": {
+		"0": "./turibulum",
+		"particle": "./turibulum"
+	},
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 165],
-			"translation": [0.25, -4.5, -5]
+			"translation": [0.25, -4.5, -5],
+			"scale": [1.5, 1.5, 1]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 90, -18],
-			"translation": [0.25, -4.5, -5]
+			"translation": [0.25, -4.5, -5],
+			"scale": [1.5, 1.5, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [300, -260, -180],
+			"rotation": [-60, 100, -180],
 			"translation": [2, 2, 2],
-			"scale": [1.36, 1.36, 0.5]
+			"scale": [1.5, 1.5, 0.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [300, 90, -1],
+			"rotation": [-60, 90, -1],
 			"translation": [2, 2, 2],
-			"scale": [1.36, 1.36, 0.5]
+			"scale": [1.5, 1.5, 0.5]
 		},
 		"gui": {
 			"rotation": [0, 0, 90],
 			"translation": [-0.5, 0, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"scale": [2, 2, 1]

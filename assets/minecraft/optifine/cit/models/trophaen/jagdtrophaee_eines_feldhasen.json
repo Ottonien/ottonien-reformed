@@ -3,7 +3,7 @@
 	"credit": "Ottonien.com",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "./ausgestopfter_feldhase"
+		"2": "./jagdtrophaee_eines_feldhasen"
 	},
 	"elements": [
 		{

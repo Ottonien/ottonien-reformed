@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -10,8 +11,9 @@
 	"elements": [
 		{
 			"name": "stamm",
-			"from": [6, 0, 6],
-			"to": [10, 16, 10],
+			"from": [2, 0, 8],
+			"to": [6, 16, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 0, 4, 16], "texture": "#2"},
 				"east": {"uv": [0, 0, 4, 16], "texture": "#2"},
@@ -23,8 +25,9 @@
 		},
 		{
 			"name": "stamm",
-			"from": [7, 16, 7],
-			"to": [9, 32, 9],
+			"from": [3, 16, 9],
+			"to": [5, 32, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [13, 0, 15, 16], "texture": "#2"},
 				"east": {"uv": [10, 0, 12, 16], "texture": "#2"},
@@ -36,8 +39,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [0, 0, 4],
-			"to": [16, 16, 4],
+			"from": [-4, 0, 6],
+			"to": [12, 16, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
@@ -45,8 +49,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [13, 0, 0],
-			"to": [13, 16, 16],
+			"from": [9, 0, 2],
+			"to": [9, 16, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
@@ -54,8 +59,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [4, 0, 0],
-			"to": [4, 16, 16],
+			"from": [0, 0, 2],
+			"to": [0, 16, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
@@ -63,8 +69,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [0, 0, 12],
-			"to": [16, 16, 12],
+			"from": [-4, 0, 14],
+			"to": [12, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
@@ -72,8 +79,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [0, 15, 10],
-			"to": [16, 31, 10],
+			"from": [-4, 15, 12],
+			"to": [12, 31, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#3"}
@@ -81,8 +89,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [0, 15, 6],
-			"to": [16, 31, 6],
+			"from": [-4, 15, 8],
+			"to": [12, 31, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#3"}
@@ -90,8 +99,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [11, 15, 0],
-			"to": [11, 31, 16],
+			"from": [7, 15, 2],
+			"to": [7, 31, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
@@ -99,8 +109,9 @@
 		},
 		{
 			"name": "blattwerk",
-			"from": [6, 15, 0],
-			"to": [6, 31, 16],
+			"from": [2, 15, 2],
+			"to": [2, 31, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, 2]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}

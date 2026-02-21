@@ -1,10 +1,10 @@
 {
 	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
+	"credit": "Ottonien.com",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./ausgestopfter_baer",
-		"particle": "./ausgestopfter_baer"
+		"0": "./jagdtrophaee_eines_braunbaeren",
+		"particle": "./jagdtrophaee_eines_braunbaeren"
 	},
 	"elements": [
 		{

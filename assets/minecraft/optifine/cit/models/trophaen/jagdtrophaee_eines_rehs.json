@@ -3,8 +3,8 @@
 	"credit": "Ottonien.com",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "./ausgestopftes_reh",
-		"particle": "./ausgestopftes_reh"
+		"2": "./jagdtrophaee_eines_rehs",
+		"particle": "./jagdtrophaee_eines_rehs"
 	},
 	"elements": [
 		{
