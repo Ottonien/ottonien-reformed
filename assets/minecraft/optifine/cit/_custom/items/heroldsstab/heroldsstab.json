@@ -2,23 +2,20 @@
 	"format_version": "1.21.6",
 	"credit": "Ottonien.com",
 	"parent": "item/generated",
-	"textures": {
-		"particle": "./heroldsstab"
-	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [90, 90, 0],
-			"translation": [0, 4.5, 7.25],
+			"rotation": [50, 90, 0],
+			"translation": [0, 0.5, 2],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [3, 90, 0],
-			"translation": [0, 4.5, 7.25],
+			"rotation": [0, 90, 0],
+			"translation": [0, 3.25, 5.75],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"firstperson_righthand": {
-			"rotation": [-20, -90, 25],
-			"translation": [1.13, 6, 1.13],
+			"rotation": [-90, -90, 25],
+			"translation": [1.13, 1.5, 2.13],
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"firstperson_lefthand": {
