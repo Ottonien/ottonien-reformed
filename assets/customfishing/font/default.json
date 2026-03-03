@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "file": "customfishing:font/bars/pointer.png",
+            "chars": [
+                "\ub001"
+            ],
+            "height": 21,
+            "ascent": 11,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar1.png",
+            "chars": [
+                "\ub002"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "customfishing:font/bars/bar2.png",
+            "chars": [
+                "\ub003"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar3.png",
+            "chars": [
+                "\ub004"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar4.png",
+            "chars": [
+                "\ub005"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar5.png",
+            "chars": [
+                "\ub006"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar6.png",
+            "chars": [
+                "\ub007"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar7.png",
+            "chars": [
+                "\ub008"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar8.png",
+            "chars": [
+                "\ub009"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "customfishing:font/bars/bar9.png",
+            "chars": [
+                "\ub00a"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        }
+    ]
+}
