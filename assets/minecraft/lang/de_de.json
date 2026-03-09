@@ -266,6 +266,10 @@
     "block.minecraft.oak_sign": "\u00A76Eichenholzschild",
     "block.minecraft.oak_hanging_sign": "\u00A76Eichenholzhängeschild",
     "block.minecraft.bamboo_button": "\u00A76Eichenholzbalken",
+    "block.minecraft.crimson_fence": "\u00A76Strohholzzaun",
+    "block.minecraft.crimson_fence_gate": "\u00A76Strohzauntor",
+    "block.minecraft.warped_fence": "\u00A76Reetzaun",
+    "block.minecraft.warped_fence_gate": "\u00A76Reetzauntor",
 
     "block.minecraft.mangrove_planks": "\u00A76Verkohlte Holzbretter",
     "block.minecraft.mangrove_stairs": "\u00A76Verkohlte Holztreppe",
