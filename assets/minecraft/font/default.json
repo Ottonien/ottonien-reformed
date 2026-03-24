@@ -38,6 +38,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/alquerque.png",
+         "ascent":43,
+         "height":256,
+         "chars":[
+            "佘"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/quest_lesen_lernen/lesen_lernen_1.png",
          "ascent":43,
          "height":256,
