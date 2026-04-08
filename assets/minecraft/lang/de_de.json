@@ -196,6 +196,10 @@
     "block.minecraft.white_terracotta": "\u00A76Wei\u00dfer gebrannter Ton",
     "block.minecraft.yellow_terracotta": "\u00A76Gelber gebrannter Ton",
     "block.minecraft.brown_terracotta": "\u00A76Brauner gebrannter Ton",
+    "block.minecraft.green_terracotta": "\u00A76Gr\u00fcer gebrannter Ton",
+    "block.minecraft.light_gray_terracotta": "\u00A76Grauer gebrannter Ton",
+    "block.minecraft.black_terracotta": "\u00A76Schwarzer gebrannter Ton",
+    "block.minecraft.blue_terracotta": "\u00A76Blauer gebrannter Ton",
 
     "block.minecraft.smooth_stone": "\u00A76Glatter Stein",
     "block.minecraft.smooth_stone_slab": "\u00A76Glatte Steinstufe",
