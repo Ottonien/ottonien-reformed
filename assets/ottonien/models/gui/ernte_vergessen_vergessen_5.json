@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/gui/ernte_vergessen_vergessen_5"
+  }
+}

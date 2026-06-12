@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:neeihavener_eisenhut"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:neeihavener_eisenhut"
+      }
+    ]
+  }
+}

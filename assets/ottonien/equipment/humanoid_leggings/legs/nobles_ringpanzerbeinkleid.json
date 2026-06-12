@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "ottonien:legs/nobles_ringpanzerbeinkleid"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:legs/nobles_ringpanzerbeinkleid"
+      }
+    ]
+  }
+}

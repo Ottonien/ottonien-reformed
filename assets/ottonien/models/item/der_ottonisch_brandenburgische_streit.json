@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/item/der_ottonisch_brandenburgische_streit"
+  }
+}

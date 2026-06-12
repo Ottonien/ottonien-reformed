@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:feet/gesteppte_stiefel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:feet/gesteppte_stiefel"
+      }
+    ]
+  }
+}

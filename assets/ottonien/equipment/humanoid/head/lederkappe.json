@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/lederkappe"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/lederkappe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:using_item",
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:use_duration",
+      "scale": 0.05,
+      "entries": [
+        {
+          "threshold": 0.16,
+          "model": {
+            "type": "minecraft:model",
+            "model": "ottonien:item/daemmerbogen_pulling_0"
+          }
+        },
+        {
+          "threshold": 0.33,
+          "model": {
+            "type": "minecraft:model",
+            "model": "ottonien:item/daemmerbogen_pulling_1"
+          }
+        },
+        {
+          "threshold": 0.5,
+          "model": {
+            "type": "minecraft:model",
+            "model": "ottonien:item/daemmerbogen_pulling_2"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "ottonien:item/daemmerbogen"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ottonien:item/daemmerbogen"
+    }
+  }
+}

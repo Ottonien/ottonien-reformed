@@ -1,0 +1,1 @@
+Files in this folder handle the mapping of equipped (3D) armor.

@@ -1,0 +1,83 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ottonien:item/item/hirtenstab"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        105,
+        100,
+        -63
+      ],
+      "translation": [
+        -1,
+        1.5,
+        1.05
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        0.7
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        82,
+        -90,
+        -11
+      ],
+      "translation": [
+        0,
+        1.5,
+        3.55
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        0.7
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        100,
+        117
+      ],
+      "translation": [
+        1.13,
+        4.2,
+        1.63
+      ],
+      "scale": [
+        1,
+        1,
+        0.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -90,
+        -100,
+        -117
+      ],
+      "translation": [
+        -0.75,
+        4.2,
+        3.88
+      ],
+      "scale": [
+        1,
+        1,
+        0.5
+      ]
+    },
+    "fixed": {
+      "scale": [
+        2,
+        2,
+        1
+      ]
+    }
+  }
+}

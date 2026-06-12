@@ -1,13 +1,13 @@
 {
-  "parent": "block/note_block",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "note_block"
+    "layer0": "minecraft:item/note_block"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1002}, "model": "item/fw_weiss_balken" },
-    { "predicate": { "custom_model_data": 1003}, "model": "item/fw_weiss_pfahl" },
-    { "predicate": { "custom_model_data": 1004}, "model": "item/fw_weiss_strebe" },
-    { "predicate": { "custom_model_data": 1005}, "model": "item/fw_weiss_zierde" },
+    { "predicate": { "custom_model_data": 1002}, "model": "minecraft:item/fw_weiss_balken" },
+    { "predicate": { "custom_model_data": 1003}, "model": "minecraft:item/fw_weiss_pfahl" },
+    { "predicate": { "custom_model_data": 1004}, "model": "minecraft:item/fw_weiss_strebe" },
+    { "predicate": { "custom_model_data": 1005}, "model": "minecraft:item/fw_weiss_zierde" },
 
     { "predicate": { "custom_model_data": 1006}, "model": "item/fw_bricks_balken" },
     { "predicate": { "custom_model_data": 1007}, "model": "item/fw_bricks_pfahl" },

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/gui/wappen_schraegbalken_rot_golden"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/nobles_ringpanzerhemd"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/nobles_ringpanzerhemd"
+      }
+    ]
+  }
+}

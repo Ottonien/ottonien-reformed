@@ -1,0 +1,208 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/note_block"
+    },
+    "entries": [
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_weiss_balken"
+        }
+      },
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_weiss_pfahl"
+        }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_weiss_strebe"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_weiss_zierde"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_bricks_balken"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_bricks_pfahl"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_bricks_strebe"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_bricks_zierde"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_gelb_balken"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_gelb_pfahl"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_gelb_strebe"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_gelb_zierde"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_natur_balken"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_natur_pfahl"
+        }
+      },
+      {
+        "threshold": 10016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_natur_strebe"
+        }
+      },
+      {
+        "threshold": 10017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_natur_zierde"
+        }
+      },
+      {
+        "threshold": 10018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_braun_balken"
+        }
+      },
+      {
+        "threshold": 10019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_braun_pfahl"
+        }
+      },
+      {
+        "threshold": 10020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_braun_strebe"
+        }
+      },
+      {
+        "threshold": 10021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_braun_zierde"
+        }
+      },
+      {
+        "threshold": 10022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_rot_balken"
+        }
+      },
+      {
+        "threshold": 10023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_rot_pfahl"
+        }
+      },
+      {
+        "threshold": 10024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_rot_strebe"
+        }
+      },
+      {
+        "threshold": 10025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_rot_zierde"
+        }
+      },
+      {
+        "threshold": 10026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_grau_balken"
+        }
+      },
+      {
+        "threshold": 10027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_grau_pfahl"
+        }
+      },
+      {
+        "threshold": 10028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_grau_strebe"
+        }
+      },
+      {
+        "threshold": 10029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fw_grau_zierde"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/gefaerbte_coiffe_blau"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/gefaerbte_coiffe_blau"
+      }
+    ]
+  }
+}

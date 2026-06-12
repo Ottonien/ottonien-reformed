@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/hundsgugel_mit_helmwulst_gruen_golden"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/hundsgugel_mit_helmwulst_gruen_golden"
+      }
+    ]
+  }
+}

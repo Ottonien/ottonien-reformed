@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/gambeson"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/gambeson"
+      }
+    ]
+  }
+}

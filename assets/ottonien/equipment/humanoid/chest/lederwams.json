@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/lederwams"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/lederwams"
+      }
+    ]
+  }
+}

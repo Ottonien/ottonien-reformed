@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/noble_ringpanzerhaube"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/noble_ringpanzerhaube"
+      }
+    ]
+  }
+}

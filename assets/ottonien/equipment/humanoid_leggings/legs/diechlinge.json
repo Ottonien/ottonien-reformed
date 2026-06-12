@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "ottonien:legs/diechlinge"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:legs/diechlinge"
+      }
+    ]
+  }
+}

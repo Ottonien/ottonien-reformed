@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow_pulling_0",
+  "textures": {
+    "layer0": "ottonien:item/item/langbogen_pulling_0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/meisterhafte_beckenhaube"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/meisterhafte_beckenhaube"
+      }
+    ]
+  }
+}

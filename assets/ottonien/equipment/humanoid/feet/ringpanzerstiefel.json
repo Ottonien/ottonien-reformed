@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:feet/ringpanzerstiefel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:feet/ringpanzerstiefel"
+      }
+    ]
+  }
+}

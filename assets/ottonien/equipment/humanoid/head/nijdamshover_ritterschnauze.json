@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:nijdamshover_ritterschnauze"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:nijdamshover_ritterschnauze"
+      }
+    ]
+  }
+}

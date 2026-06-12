@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/topfhelm_des_pilgers"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/topfhelm_des_pilgers"
+      }
+    ]
+  }
+}

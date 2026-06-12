@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/plattenruestung"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ottonien:chest/plattenruestung"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/plattenruestung"
+      }
+    ]
+  }
+}

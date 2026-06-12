@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/krone_des_kohlkoenigs"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/krone_des_kohlkoenigs"
+      }
+    ]
+  }
+}

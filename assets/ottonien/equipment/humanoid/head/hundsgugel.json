@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/hundsgugel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/hundsgugel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/gui/wappen_schildbord_gruen_silber"
+  }
+}

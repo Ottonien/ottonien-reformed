@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/item/ringpanzerhemd_mit_wappenrock_siebengespalten_schwarz_golden"
+  }
+}

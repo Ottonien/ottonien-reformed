@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "&6Heller",
+          "color": "gold"
+        },
+        "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bone"
+        }
+      }
+  
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/emerald"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:using_item",
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ottonien:model/dreieckschild_geschacht_schwarz_silber_blocking"
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ottonien:model/dreieckschild_geschacht_schwarz_silber"
+    }
+  }
+}

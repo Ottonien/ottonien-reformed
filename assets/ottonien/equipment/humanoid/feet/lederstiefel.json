@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:feet/lederstiefel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:feet/lederstiefel"
+      }
+    ]
+  }
+}

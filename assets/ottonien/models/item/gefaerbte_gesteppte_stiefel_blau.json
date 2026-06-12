@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/item/gefaerbte_gesteppte_stiefel_blau"
+  }
+}

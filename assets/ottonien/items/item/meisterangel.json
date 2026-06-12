@@ -1,0 +1,46 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:fishing_rod/cast",
+    "on_false": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": [
+            "gui",
+            "fixed"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "ottonien:item/meisterangel_gui"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "ottonien:item/meisterangel_held"
+      }
+    },
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": [
+            "gui",
+            "fixed"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "ottonien:item/meisterangel_cast_gui"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "ottonien:item/meisterangel_cast_held"
+      }
+    }
+  }
+}

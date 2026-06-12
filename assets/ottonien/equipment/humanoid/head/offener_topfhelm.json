@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/offener_topfhelm"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/offener_topfhelm"
+      }
+    ]
+  }
+}

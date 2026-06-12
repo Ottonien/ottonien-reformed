@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/crossbow_firework",
+  "textures": {
+    "layer0": "ottonien:item/item/noble_armbrust_firework"
+  }
+}
