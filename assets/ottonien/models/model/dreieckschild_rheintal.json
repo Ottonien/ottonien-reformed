@@ -1,12 +1,11 @@
 {
-  "format_version": "1.21.6",
   "credit": "Ottonien.com",
   "texture_size": [
     32,
     32
   ],
   "textures": {
-    "3": "ottonien:item/model/dreieckschild_achental"
+    "3": "ottonien:item/model/dreieckschild_rheintal"
   },
   "elements": [
     {

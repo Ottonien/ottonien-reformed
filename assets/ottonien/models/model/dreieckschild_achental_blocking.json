@@ -1,7 +1,7 @@
 {
   "credit": "Ottonien.com",
   "textures": {
-    "2": "ottonien:item/item/dreieckschild_achental"
+    "2": "ottonien:item/model/dreieckschild_achental"
   },
   "elements": [
     {

@@ -4,11 +4,11 @@
     "property": "minecraft:using_item",
     "on_true": {
       "type": "minecraft:model",
-      "model": "ottonien:model/dreieckschild_achental_blocking"
+      "model": "ottonien:model/dreieckschild_loewenfels_blocking"
     },
     "on_false": {
       "type": "minecraft:model",
-      "model": "ottonien:model/dreieckschild_achental"
+      "model": "ottonien:model/dreieckschild_loewenfels"
     }
   }
 }
