@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/angeklebter_bart"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/angeklebter_bart"
+      }
+    ]
+  }
+}
