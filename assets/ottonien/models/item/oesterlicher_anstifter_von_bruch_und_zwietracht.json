@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ottonien:item/item/oesterlicher_anstifter_von_bruch_und_zwietracht"
+  }
+}
