@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/helm_des_fruehlings"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/helm_des_fruehlings"
+      }
+    ]
+  }
+}
