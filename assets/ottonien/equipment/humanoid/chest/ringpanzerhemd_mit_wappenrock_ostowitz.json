@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_ostowitz"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_ostowitz"
+      }
+    ]
+  }
+}
