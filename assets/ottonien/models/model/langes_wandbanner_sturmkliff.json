@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "ottonien:item/model/langes_wandbanner_zwillingweiden",
-    "particle": "ottonien:item/model/langes_wandbanner_zwillingweiden"
+    "0": "ottonien:item/model/langes_wandbanner_sturmkliff",
+    "particle": "ottonien:item/model/langes_wandbanner_sturmkliff"
   },
   "elements": [
     {
