@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "ottonien:neeihavener_eisenhut"
+        "texture": "ottonien:head/neeihavener_eisenhut"
       }
     ],
     "horse_body": [
       {
-        "texture": "ottonien:neeihavener_eisenhut"
+        "texture": "ottonien:head/neeihavener_eisenhut"
       }
     ]
   }

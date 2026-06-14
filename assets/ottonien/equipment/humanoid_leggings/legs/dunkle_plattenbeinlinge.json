@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "ottonien:legs/dunkle_plattenbeinlinge"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:legs/dunkle_plattenbeinlinge"
+      }
+    ]
+  }
+}

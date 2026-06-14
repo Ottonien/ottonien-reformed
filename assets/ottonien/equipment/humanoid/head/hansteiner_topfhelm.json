@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "ottonien:hansteiner_topfhelm"
+        "texture": "ottonien:head/hansteiner_topfhelm"
       }
     ],
     "horse_body": [
       {
-        "texture": "ottonien:hansteiner_topfhelm"
+        "texture": "ottonien:head/hansteiner_topfhelm"
       }
     ]
   }
