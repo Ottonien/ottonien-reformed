@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/verzierter_haarreif"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/verzierter_haarreif"
+      }
+    ]
+  }
+}
