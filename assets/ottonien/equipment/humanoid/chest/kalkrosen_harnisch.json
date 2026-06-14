@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/kalkrosen_harnisch"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/kalkrosen_harnisch"
+      }
+    ]
+  }
+}
