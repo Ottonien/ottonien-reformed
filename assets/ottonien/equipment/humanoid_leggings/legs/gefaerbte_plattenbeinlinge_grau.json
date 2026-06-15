@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "ottonien:legs/gefaerbte_plattenbeinlinge_grau"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:legs/gefaerbte_plattenbeinlinge_grau"
+      }
+    ]
+  }
+}
