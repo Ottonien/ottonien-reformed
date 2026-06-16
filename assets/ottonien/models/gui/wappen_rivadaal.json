@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_kein_wappen"
+    "layer0": "ottonien:item/gui/wappen_rivadaal"
   }
 }
