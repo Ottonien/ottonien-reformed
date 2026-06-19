@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_auenwacht"
+        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_rivadaal"
       }
     ],
     "horse_body": [
       {
-        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_auenwacht"
+        "texture": "ottonien:chest/ringpanzerhemd_mit_wappenrock_rivadaal"
       }
     ]
   }
