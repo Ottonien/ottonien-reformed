@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/mitglieder_anzeigen"
+    "model": "ottonien:gui/gefolge_verlassen"
   }
 }

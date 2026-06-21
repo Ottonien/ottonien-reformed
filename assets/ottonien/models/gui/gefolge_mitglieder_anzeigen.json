@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/mitglieder_anzeigen"
+    "layer0": "ottonien:item/gui/gefolge_mitglieder_anzeigen"
   }
 }

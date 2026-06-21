@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/verfolgte_spieler"
+    "layer0": "ottonien:item/gui/arrow_left"
   }
 }
