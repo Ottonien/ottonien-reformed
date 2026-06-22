@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/uebergestuelpter_sack"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/uebergestuelpter_sack"
+      }
+    ]
+  }
+}
