@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/edler_siegerkranz"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/edler_siegerkranz"
+      }
+    ]
+  }
+}

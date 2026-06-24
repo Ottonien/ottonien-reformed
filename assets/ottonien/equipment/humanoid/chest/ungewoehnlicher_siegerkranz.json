@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/ungewoehnlicher_siegerkranz"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/ungewoehnlicher_siegerkranz"
+      }
+    ]
+  }
+}
