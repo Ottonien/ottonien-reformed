@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/schloss_knacken"
+    "model": "ottonien:gui/sicherung_aufbrechen"
   }
 }
