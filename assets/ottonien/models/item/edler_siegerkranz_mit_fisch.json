@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ottonien:item/item/edler_siegerkranz_mit_fisch"
+  }
+}
