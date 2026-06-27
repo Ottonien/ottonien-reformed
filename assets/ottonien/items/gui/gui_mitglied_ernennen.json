@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/schatzmeister_ernennen"
+    "model": "ottonien:gui/gui_mitglied_ernennen"
   }
 }

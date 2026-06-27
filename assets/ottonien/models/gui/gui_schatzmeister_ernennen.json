@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/anfuehrer_ernennen"
+    "layer0": "ottonien:item/gui/gui_schatzmeister_ernennen"
   }
 }

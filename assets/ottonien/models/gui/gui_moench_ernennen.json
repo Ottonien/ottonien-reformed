@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/priester_ernennen"
+    "layer0": "ottonien:item/gui/gui_moench_ernennen"
   }
 }
