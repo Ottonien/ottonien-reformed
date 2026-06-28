@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_ostowitz"
+    "layer0": "ottonien:item/gui/wappen_aehrstein_gruen_golden"
   }
 }

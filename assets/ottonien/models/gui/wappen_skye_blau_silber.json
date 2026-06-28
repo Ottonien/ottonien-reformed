@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_falkenfels"
+    "layer0": "ottonien:item/gui/wappen_skye_blau_silber"
   }
 }

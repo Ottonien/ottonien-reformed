@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_frostmark"
+    "layer0": "ottonien:item/gui/wappen_buehlstett_rot_silber"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_nordhaven"
+    "layer0": "ottonien:item/gui/wappen_freyford_blau_golden"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/wappen_freyford"
+    "layer0": "ottonien:item/gui/wappen_reichenau_blau_golden"
   }
 }
