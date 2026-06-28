@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/weisswasserhavenscher_plattenbrustpanzer"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/weisswasserhavenscher_plattenbrustpanzer"
+      }
+    ]
+  }
+}

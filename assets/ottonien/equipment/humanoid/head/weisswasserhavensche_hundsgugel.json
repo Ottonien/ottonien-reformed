@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/weisswasserhavensche_hundsgugel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/weisswasserhavensche_hundsgugel"
+      }
+    ]
+  }
+}
