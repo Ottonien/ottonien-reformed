@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/werkmeister_ernennen"
+    "layer0": "ottonien:item/gui/gui_mitglied_ernennen"
   }
 }

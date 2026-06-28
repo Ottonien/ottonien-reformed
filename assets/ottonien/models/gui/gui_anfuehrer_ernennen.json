@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/beschuetze_ein_gefolge"
+    "layer0": "ottonien:item/gui/gui_anfuehrer_ernennen"
   }
 }

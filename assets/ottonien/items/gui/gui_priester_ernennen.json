@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/priester_ernennen"
+    "model": "ottonien:gui/gui_priester_ernennen"
   }
 }

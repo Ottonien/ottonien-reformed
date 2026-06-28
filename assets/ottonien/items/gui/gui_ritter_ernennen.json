@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/stellvertreter_ernennen"
+    "model": "ottonien:gui/gui_ritter_ernennen"
   }
 }
