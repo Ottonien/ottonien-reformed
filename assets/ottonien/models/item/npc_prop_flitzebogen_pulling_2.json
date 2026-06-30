@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ottonien:item/item/npc_langbogen_pulling_0"
+    "layer0": "ottonien:item/item/flitzebogen_pulling_2"
   },
   "display": {
     "thirdperson_righthand": {

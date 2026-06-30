@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ottonien:item/item/npc_jagdbogen_pulling_0"
+    "layer0": "ottonien:item/item/jagdbogen_pulling_0"
   },
   "display": {
     "thirdperson_righthand": {

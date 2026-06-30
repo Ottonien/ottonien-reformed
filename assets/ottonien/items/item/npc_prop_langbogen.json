@@ -7,14 +7,14 @@
         "when": "arrow",
         "model": {
           "type": "minecraft:model",
-          "model": "ottonien:item/npc_flitzebogen_arrow"
+          "model": "ottonien:item/npc_prop_langbogen_arrow"
         }
       },
       {
         "when": "rocket",
         "model": {
           "type": "minecraft:model",
-          "model": "ottonien:item/npc_flitzebogen_firework"
+          "model": "ottonien:item/npc_prop_langbogen_firework"
         }
       }
     ],
@@ -29,25 +29,25 @@
             "threshold": 0.58,
             "model": {
               "type": "minecraft:model",
-              "model": "ottonien:item/npc_flitzebogen_pulling_1"
+              "model": "ottonien:item/npc_prop_langbogen_pulling_1"
             }
           },
           {
             "threshold": 1.0,
             "model": {
               "type": "minecraft:model",
-              "model": "ottonien:item/npc_flitzebogen_pulling_2"
+              "model": "ottonien:item/npc_prop_langbogen_pulling_2"
             }
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "ottonien:item/npc_flitzebogen_pulling_0"
+          "model": "ottonien:item/npc_prop_langbogen_pulling_0"
         }
       },
       "on_false": {
         "type": "minecraft:model",
-        "model": "ottonien:item/npc_flitzebogen"
+        "model": "ottonien:item/npc_prop_langbogen"
       }
     }
   }
