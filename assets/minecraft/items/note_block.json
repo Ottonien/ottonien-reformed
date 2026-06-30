@@ -106,98 +106,98 @@
         }
       },
       {
-        "threshold": 10016,
+        "threshold": 1016,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_natur_strebe"
         }
       },
       {
-        "threshold": 10017,
+        "threshold": 1017,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_natur_zierde"
         }
       },
       {
-        "threshold": 10018,
+        "threshold": 1018,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_braun_balken"
         }
       },
       {
-        "threshold": 10019,
+        "threshold": 1019,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_braun_pfahl"
         }
       },
       {
-        "threshold": 10020,
+        "threshold": 1020,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_braun_strebe"
         }
       },
       {
-        "threshold": 10021,
+        "threshold": 1021,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_braun_zierde"
         }
       },
       {
-        "threshold": 10022,
+        "threshold": 1022,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_rot_balken"
         }
       },
       {
-        "threshold": 10023,
+        "threshold": 1023,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_rot_pfahl"
         }
       },
       {
-        "threshold": 10024,
+        "threshold": 1024,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_rot_strebe"
         }
       },
       {
-        "threshold": 10025,
+        "threshold": 1025,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_rot_zierde"
         }
       },
       {
-        "threshold": 10026,
+        "threshold": 1026,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_grau_balken"
         }
       },
       {
-        "threshold": 10027,
+        "threshold": 1027,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_grau_pfahl"
         }
       },
       {
-        "threshold": 10028,
+        "threshold": 1028,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_grau_strebe"
         }
       },
       {
-        "threshold": 10029,
+        "threshold": 1029,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fw_grau_zierde"
