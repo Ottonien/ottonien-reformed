@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ottonien:item/gui/ohnmacht_gnadenstoss"
+    "layer0": "ottonien:item/gui/bewusstlosen_wiederbeleben"
   }
 }
