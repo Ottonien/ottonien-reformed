@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/ringpanzerhaube_mit_holderner_girlande"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/ringpanzerhaube_mit_holderner_girlande"
+      }
+    ]
+  }
+}
