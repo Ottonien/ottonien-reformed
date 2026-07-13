@@ -3,7 +3,7 @@
 	"credit": "Ottonien.com",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "ottonien:item/model/furniture/eichenschemel"
+		"1": "ottonien:item/model/furniture/fichtenschemel"
 	},
 	"elements": [
 		{
