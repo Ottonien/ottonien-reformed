@@ -8,6 +8,8 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
@@ -38,6 +40,23 @@ jobs:
       - name: Get release tag
         id: get_tag
         run: echo "RELEASE_TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Cleanup old resource pack assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEEP=10
+          ASSET_NAME="Ottonien.zip"
+
+          gh release list --limit 200 --exclude-drafts --exclude-pre-releases --json tagName,publishedAt \
+            | jq -r "sort_by(.publishedAt) | reverse | .[$KEEP:][] | .tagName" \
+            | while read -r tag; do
+                [ -z "$tag" ] && continue
+                if gh release view "$tag" --json assets --jq '.assets[].name' | grep -Fxq "$ASSET_NAME"; then
+                  echo "Deleting $ASSET_NAME from release $tag"
+                  gh release delete-asset "$tag" "$ASSET_NAME" --yes
+                fi
+              done
 
       - name: Upload resource pack
         run: gh release upload "$RELEASE_TAG" Ottonien.zip
