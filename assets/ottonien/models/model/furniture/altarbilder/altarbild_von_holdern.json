@@ -3,7 +3,7 @@
 	"credit": "Ottonien.com",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "ottonien:item/model/altarbild_von_holdern"
+		"0": "ottonien:item/model/furniture/altarbilder/altarbild_von_holdern"
 	},
 	"elements": [
 		{
