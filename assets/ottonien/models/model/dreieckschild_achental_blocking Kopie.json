@@ -1,7 +1,7 @@
 {
-  "credit": "Made with Blockbench",
+  "credit": "Ottonien.com",
   "textures": {
-    "2": "ottonien:item/model/dreieckschild_siebengeteilt_blau_golden"
+    "2": "ottonien:item/model/dreieckschild_achental"
   },
   "elements": [
     {
