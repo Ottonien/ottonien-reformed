@@ -223,7 +223,8 @@
     "block.minecraft.calcite": "\u00A76Stein Nonnenkopf",
     "block.minecraft.chiseled_red_sandstone": "\u00A76Sandstein Nonnenkopf",
 
-    "block.minecraft.magenta_terracotta": "\u00A76Mauerfresko",
+    "block.minecraft.magenta_terracotta": "\u00A76Fugenfresko",
+    "block.minecraft.black_terracotta": "\u00A76Weihekreuz",
     "block.minecraft.light_blue_concrete": "\u00A76Gotikfresko",
     "block.minecraft.magenta_concrete": "\u00A76Orientfresko",
     "block.minecraft.purple_concrete": "\u00A76Himmelfresko",
