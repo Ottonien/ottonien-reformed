@@ -1,6 +1,10 @@
 {
    "providers":[
       {
+         "type": "reference",
+         "id": "pause:custom_font"
+      },
+      {
          "file": "custom_ui/negative_space.png",
          "ascent":-32768,
          "type": "bitmap",

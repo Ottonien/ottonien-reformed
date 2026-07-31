@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "file": "pause:internal/square.png",
+            "chars": [
+                "\uEFFF"
+            ],
+            "height": -209,
+            "ascent": -10000,
+            "type": "bitmap"
+        },
+        {
+            "type": "bitmap",
+            "file": "pause:escape_menu/bottom_card.png",
+            "height": 150,
+            "ascent": 13,
+            "chars": [
+                "\uEF03"
+            ]
+        }
+    ]
+}
