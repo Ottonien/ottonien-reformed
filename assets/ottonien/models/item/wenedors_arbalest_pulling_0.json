@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/crossbow_pulling_0",
+  "textures": {
+    "layer0": "ottonien:item/item/wenedors_arbalest_pulling_0"
+  }
+}
