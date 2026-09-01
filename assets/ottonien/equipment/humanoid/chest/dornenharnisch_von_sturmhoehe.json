@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/dornenharnisch_von_sturmhoehe"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/dornenharnisch_von_sturmhoehe"
+      }
+    ]
+  }
+}
