@@ -301,24 +301,6 @@
          "chars":[
             "伝"
          ]
-      },
-      {
-         "type":"bitmap",
-         "file":"custom_ui/test/test.png",
-         "ascent":8,
-         "height":32,
-         "chars":[
-            "俠"
-         ]
-      },
-      {
-         "type":"bitmap",
-         "file":"custom_ui/namebadge.png",
-         "ascent":8,
-         "height":13,
-         "chars":[
-            "✦"
-         ]
       }
    ]
 }
