@@ -10,6 +10,9 @@
     "advancements.toast.task": "\u00A77Quest aktualisiert",
     "advancements.toast.achievement": "\u00A76Quest Absolviert",
 
+    "multiplayer.unsecureserver.toast.title": "\u00A76Roleplay-Chat",
+    "multiplayer.unsecureserver.toast": "Chatnachrichten werden von unserem Roleplay-Chatsystem formatiert.",
+
     "item.minecraft.emerald": "\u00A76Groschen",
     "item.minecraft.glass_bottle": "\u00A76Glasflasche",
     "item.minecraft.flint": "\u00A76Wolle",
