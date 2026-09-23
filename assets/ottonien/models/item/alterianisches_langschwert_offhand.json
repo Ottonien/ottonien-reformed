@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ottonien:item/item/alterianisches_langschwert_offhand"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [105, 100, -63],
+			"translation": [-1, 1.5, 1.05],
+			"scale": [1.7, 1.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [82, -90, -151],
+			"translation": [0, -15, 0.05],
+			"scale": [1.7, 1.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 100, 117],
+			"translation": [1.13, 4.2, 1.63],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, -100, -117],
+			"translation": [-1.5, 5.45, 3.38],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
