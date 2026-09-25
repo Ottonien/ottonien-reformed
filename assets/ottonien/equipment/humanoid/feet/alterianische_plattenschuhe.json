@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:feet/alterianische_plattenschuhe"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:feet/alterianische_plattenschuhe"
+      }
+    ]
+  }
+}
