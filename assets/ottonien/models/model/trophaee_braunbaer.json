@@ -232,7 +232,7 @@
 			"translation": [0, 0, -7.25]
 		},
 		"fixed": {
-			"translation": [0, 0, -10],
+			"translation": [0, 0, -12],
 			"scale": [2, 2, 2]
 		},
 		"on_shelf": {

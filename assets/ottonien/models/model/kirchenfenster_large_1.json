@@ -204,14 +204,14 @@
   "display": {
     "fixed": {
       "rotation": [
-        -90,
+        90,
         0,
         0
       ],
       "translation": [
         4,
-        16,
-        -14
+        -16,
+        -16
       ],
       "scale": [
         2,
