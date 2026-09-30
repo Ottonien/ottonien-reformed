@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/zioner_plattenrock"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/zioner_plattenrock"
+      }
+    ]
+  }
+}

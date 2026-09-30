@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/zions_eiserner_schleier"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/zions_eiserner_schleier"
+      }
+    ]
+  }
+}
