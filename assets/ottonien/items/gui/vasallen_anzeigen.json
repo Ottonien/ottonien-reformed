@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "ottonien:gui/alle_vasallen"
+    "model": "ottonien:gui/vasallen_anzeigen"
   }
 }
