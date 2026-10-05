@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/aehrsteiner_plattenpanzer"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/aehrsteiner_plattenpanzer"
+      }
+    ]
+  }
+}
