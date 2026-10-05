@@ -1,0 +1,33 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "ottonien:item/item/englischer_langbogen_pulling_1"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [86, 0, -40],
+			"translation": [-0.5, -2, 2.3],
+			"scale": [1.7, 1.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [110, 0, -63],
+			"translation": [-0.5, -2, 2.3],
+			"scale": [1.7, 1.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-80, -88, 143],
+			"translation": [0, 4.25, 3.25],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-80, 88, -143],
+			"translation": [0, 4.25, 3.25],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
