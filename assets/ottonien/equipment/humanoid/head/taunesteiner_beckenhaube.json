@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/taunesteiner_beckenhaube"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/taunesteiner_beckenhaube"
+      }
+    ]
+  }
+}
