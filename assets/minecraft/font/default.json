@@ -42,6 +42,15 @@
       },
       {
          "type":"bitmap",
+         "file":"custom_ui/kalender_bg.png",
+         "ascent":43,
+         "height":256,
+         "chars":[
+            "仪"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"custom_ui/alquerque.png",
          "ascent":43,
          "height":256,

@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "ottonien:item/eidklinge_der_rosenwaechter_gui"
+        }
+      },
+      {
+        "when": [
+          "firstperson_lefthand",
+          "thirdperson_lefthand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "ottonien:item/eidklinge_der_rosenwaechter_offhand"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "ottonien:item/eidklinge_der_rosenwaechter"
+    }
+  }
+}
