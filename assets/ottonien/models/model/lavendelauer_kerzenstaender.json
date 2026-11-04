@@ -1,0 +1,163 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Ottonien.com",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ottonien:item/model/lavendelauer_kerzenstaender",
+		"3": "ottonien:item/model/flame_small"
+	},
+	"elements": [
+		{
+			"name": "docht",
+			"from": [7.5, 13, 8],
+			"to": [8.5, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 5.5, 0.5], "texture": "#0"},
+				"south": {"uv": [5, 0, 5.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flame2",
+			"from": [-0.5, 2, 7],
+			"to": [15.5, 18, 7],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 2, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "flame3",
+			"from": [1.5, 2, 7],
+			"to": [17.5, 18, 7],
+			"rotation": {"x": 0, "y": -132.5, "z": 0, "origin": [9, 2, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "base",
+			"from": [7, 9, 7],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 9, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"east": {"uv": [1, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [2, 0, 3, 2], "texture": "#0"},
+				"west": {"uv": [3, 0, 4, 2], "texture": "#0"},
+				"up": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"down": {"uv": [4, 1, 5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 8, 6.5],
+			"to": [9.5, 9, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 8, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"south": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"west": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"up": {"uv": [0, 5, 1.5, 6.5], "texture": "#0"},
+				"down": {"uv": [1.5, 5, 3, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 2, 6.5],
+			"to": [9.5, 3, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 2, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"south": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"west": {"uv": [0, 4.5, 1.5, 5], "texture": "#0"},
+				"up": {"uv": [0, 5, 1.5, 6.5], "texture": "#0"},
+				"down": {"uv": [1.5, 5, 3, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "base",
+			"from": [7, 3, 7],
+			"to": [9, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 3, 7]},
+			"faces": {
+				"north": {"uv": [0, 2, 1, 4.5], "texture": "#0"},
+				"east": {"uv": [1, 2, 2, 4.5], "texture": "#0"},
+				"south": {"uv": [2, 2, 3, 4.5], "texture": "#0"},
+				"west": {"uv": [3, 2, 4, 4.5], "texture": "#0"},
+				"up": {"uv": [4, 2, 5, 3], "texture": "#0"},
+				"down": {"uv": [4, 3, 5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 2, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 0, 5.5]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 2.5, 7.5], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 2.5, 7.5], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 6.5, 2.5, 7.5], "texture": "#0"},
+				"up": {"uv": [0, 7.5, 2.5, 10], "texture": "#0"},
+				"down": {"uv": [0, 7.5, 2.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "floor_decal",
+			"from": [1.5, 0.01, 1.5],
+			"to": [14.5, 0.01, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 0.01, 1.5]},
+			"faces": {
+				"up": {"uv": [6, 0.5, 12.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.49, 0, 5.5],
+			"to": [5.49, 4, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.49, 0, 5.5]},
+			"faces": {
+				"east": {"uv": [13, 0, 14.5, 2], "texture": "#0"},
+				"west": {"uv": [13, 0, 14.5, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, -22, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
