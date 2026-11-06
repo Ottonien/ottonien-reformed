@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/schuppen_des_fischritters"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/schuppen_des_fischritters"
+      }
+    ]
+  }
+}

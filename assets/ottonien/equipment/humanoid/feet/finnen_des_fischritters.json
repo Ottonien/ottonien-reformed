@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:feet/finnen_des_fischritters"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:feet/finnen_des_fischritters"
+      }
+    ]
+  }
+}
