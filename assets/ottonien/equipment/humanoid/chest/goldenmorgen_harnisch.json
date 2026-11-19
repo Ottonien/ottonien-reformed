@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:chest/goldenmorgen_harnisch"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:chest/goldenmorgen_harnisch"
+      }
+    ]
+  }
+}

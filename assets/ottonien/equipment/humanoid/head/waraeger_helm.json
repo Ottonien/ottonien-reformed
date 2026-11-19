@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ottonien:head/waraeger_helm"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "ottonien:head/waraeger_helm"
+      }
+    ]
+  }
+}
