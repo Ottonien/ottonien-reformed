@@ -1,0 +1,154 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Ottonien.com",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "ottonien:item/model/turmschild_der_rosenwaechter",
+		"particle": "ottonien:item/model/turmschild_der_rosenwaechter"
+	},
+	"elements": [
+		{
+			"name": "base1",
+			"from": [2, 0, -1],
+			"to": [14, 1, 17],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 7]},
+			"faces": {
+				"north": {"uv": [0, 8.5, 6, 9], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.5, 9], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"west": {"uv": [5.5, 9, 6, 0], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [6, 9, 0, 0], "texture": "#1"},
+				"down": {"uv": [6.5, 0, 12.5, 9], "texture": "#1"}
+			}
+		},
+		{
+			"name": "base2",
+			"from": [3, 0, -3],
+			"to": [13, 1, -1],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 5]},
+			"faces": {
+				"north": {"uv": [0.5, 9.5, 5.5, 10], "texture": "#1"},
+				"east": {"uv": [5, 9, 5.5, 10], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0.5, 9, 1, 10], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5.5, 10, 0.5, 9], "texture": "#1"},
+				"down": {"uv": [12, 9, 7, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "base3",
+			"from": [4, 0, -4],
+			"to": [12, 1, -3],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 4]},
+			"faces": {
+				"north": {"uv": [1, 10, 5, 10.5], "texture": "#1"},
+				"east": {"uv": [4.5, 10, 5, 10.5], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [1, 10, 1.5, 10.5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [1, 10.5, 5, 10], "texture": "#1"},
+				"down": {"uv": [11.5, 10.5, 7.5, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "base4",
+			"from": [6, 0, -5],
+			"to": [10, 1, -4],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 3]},
+			"faces": {
+				"north": {"uv": [2, 10.5, 4, 11], "texture": "#1"},
+				"east": {"uv": [3.5, 10.5, 4, 11], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2, 10.5, 2.5, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [2, 11, 4, 10.5], "texture": "#1"},
+				"down": {"uv": [10.5, 11, 8.5, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "halter1",
+			"from": [10, -4, 8],
+			"to": [11, 0, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 13.5, 0.5, 15.5], "texture": "#1"},
+				"east": {"uv": [0.5, 13.5, 1, 15.5], "texture": "#1"},
+				"south": {"uv": [1, 13.5, 1.5, 15.5], "texture": "#1"},
+				"west": {"uv": [1.5, 13.5, 2, 15.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "halter2",
+			"from": [5, -4, 8],
+			"to": [6, 0, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 11.5, 0.5, 13.5], "texture": "#1"},
+				"east": {"uv": [0.5, 11.5, 1, 13.5], "texture": "#1"},
+				"south": {"uv": [1, 11.5, 1.5, 13.5], "texture": "#1"},
+				"west": {"uv": [1.5, 11.5, 2, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "halter3",
+			"from": [5, -5, 8],
+			"to": [11, -4, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [3, 12.5, 0, 13], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [0, 12, 0.5, 12.5], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 12.5, 3, 13], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [2.5, 13, 3, 13.5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 13.5, 3, 14], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 14, 3, 14.5], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [10.25, -2.5, 2.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [10.25, -2.5, 2.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -3, 2],
+			"translation": [-4, 2, -1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, -3, 2],
+			"translation": [-4, 2, -1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0]
+		},
+		"gui": {
+			"rotation": [90, -180, -35],
+			"translation": [-4, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15.75],
+			"scale": [2.1, 2.1, 2.1]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		{
+			"name": "halter",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [4, 5, 6]
+		}
+	]
+}
